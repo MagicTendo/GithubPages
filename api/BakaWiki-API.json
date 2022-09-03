@@ -117,7 +117,7 @@
             "name": "Tereya",
             "description": "",
             "type": "Personnage",
-            "img": ""
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Tereya.png"
         },
         "17_page": {
             "path": "/character/Tokinotsuki.html",
