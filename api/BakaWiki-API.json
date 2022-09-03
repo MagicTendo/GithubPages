@@ -5,7 +5,7 @@
             "name": "Histoire de Yunranohi",
             "description": "",
             "type": "Archive",
-            "img": "http://baka-wiki.rf.gd/Img/archive/MajikuTend%c5%8dBideog%c4%93mu.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/archive/MajikuTend%c5%8dBideog%c4%93mu.png"
         },
         "1_page": {
             "path": "/archive/MagiruTendoru-Vibing.html",
@@ -26,7 +26,7 @@
             "name": "Some Random Medley",
             "description": "",
             "type": "Archive",
-            "img": "http://baka-wiki.rf.gd/Img/archive/SomeRandomMedleyBanner.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/archive/SomeRandomMedleyBanner.png"
         },
         "4_page": {
             "path": "/character/Ayabentu.html",
@@ -75,7 +75,7 @@
             "name": "Kōrufuyuki",
             "description": "",
             "type": "Personnage",
-            "img": "http://baka-wiki.rf.gd/Img/character/K%c5%8drufuyuki.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/K%c5%8drufuyuki.png"
         },
         "11_page": {
             "path": "/character/Kōseiden.html",
@@ -89,14 +89,14 @@
             "name": "Kuraisoki",
             "description": "",
             "type": "Personnage",
-            "img": "http://baka-wiki.rf.gd/Img/character/Kuraisoki.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Kuraisoki.png"
         },
         "13_page": {
             "path": "/character/Myūjadena.html",
             "name": "Myūjadena",
             "description": "",
             "type": "Personnage",
-            "img": "http://baka-wiki.rf.gd/Img/character/My%c5%abjadenaNichinsutairu.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/My%c5%abjadenaNichinsutairu.png"
         },
         "14_page": {
             "path": "/character/Reishikida.html",
@@ -124,7 +124,7 @@
             "name": "Tokinotsuki",
             "description": "",
             "type": "Personnage",
-            "img": "http://baka-wiki.rf.gd/Img/character/Tokinotsuki.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Tokinotsuki.png"
         },
         "18_page": {
             "path": "/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.html",
@@ -138,7 +138,7 @@
             "name": "Yukidami",
             "description": "",
             "type": "Region",
-            "img": "http://baka-wiki.rf.gd/Img/region/Yukidami.png"
+            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/region/Yukidami.png"
         },
         "20_page": {
             "path": "/dimension/Kyujūgogēmu.html",
