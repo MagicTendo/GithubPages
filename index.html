@@ -149,7 +149,7 @@
         const totalPages = data.numberOfPages;
 
         for (i = 0; i < totalPages; i++) {
-            if (data.pages[`${i}_page`].img != "" && data.pages[`${i}_page`].name != "Myūjadena") {
+            if (data.pages[`${i}_page`].img != "") {
                 const link = document.createElement("a");
                 const pageImg = document.createElement("img");
                 const randomBetween = (min, max) => min + Math.floor(Math.random() * (max - min + 1));
