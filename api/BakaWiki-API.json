@@ -1,152 +1,806 @@
 {
     "pages": {
         "0_page": {
-            "path": "/archive/Histoire-de-Yunranohi.html",
-            "name": "Histoire de Yunranohi",
-            "description": "",
-            "type": "Archive",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/archive/MajikuTend%c5%8dBideog%c4%93mu.png"
-        },
-        "1_page": {
-            "path": "/archive/MagiruTendoru-Vibing.html",
-            "name": "MagiruTendoru Vibing",
-            "description": "",
-            "type": "Archive",
-            "img": ""
-        },
-        "2_page": {
-            "path": "/archive/Music-Battle-Tournament.html",
-            "name": "Music Battle Tournament",
-            "description": "",
-            "type": "Archive",
-            "img": ""
-        },
-        "3_page": {
-            "path": "/archive/Some-Random-Medley.html",
-            "name": "Some Random Medley",
-            "description": "",
-            "type": "Archive",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/archive/SomeRandomMedleyBanner.png"
-        },
-        "4_page": {
-            "path": "/character/Ayabentu.html",
-            "name": "Ayabentu",
-            "description": "",
-            "type": "Personnage",
-            "img": ""
-        },
-        "5_page": {
-            "path": "/character/BakaTaida.html",
-            "name": "BakaTaida",
-            "description": "",
-            "type": "Personnage",
-            "img": ""
-        },
-        "6_page": {
-            "path": "/character/Ekazenaya.html",
-            "name": "Ekazenaya",
-            "description": "",
-            "type": "Personnage",
-            "img": ""
-        },
-        "7_page": {
             "path": "/character/Hinosako.html",
             "name": "Hinosako",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Hinosako.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Hinosako.png"
         },
-        "8_page": {
+        "1_page": {
             "path": "/character/Kasenzan.html",
             "name": "Kasenzan",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kasenzan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kasenzan.png"
         },
-        "9_page": {
+        "2_page": {
+            "path": "/character/Ekazenaya.html",
+            "name": "Ekazenaya",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ekazenaya.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Ekazenaya.png"
+        },
+        "3_page": {
             "path": "/character/Ketsudan.html",
             "name": "Ketsudan",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ketsudan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Ketsudan.png"
         },
-        "10_page": {
-            "path": "/character/Kōrufuyuki.html",
-            "name": "Kōrufuyuki",
-            "description": "",
-            "type": "Personnage",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/K%c5%8drufuyuki.png"
-        },
-        "11_page": {
+        "4_page": {
             "path": "/character/Kōseiden.html",
             "name": "Kōseiden",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseiden.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kōseiden.png"
         },
-        "12_page": {
-            "path": "/character/Kuraisoki.html",
-            "name": "Kuraisoki",
-            "description": "",
-            "type": "Personnage",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Kuraisoki.png"
-        },
-        "13_page": {
-            "path": "/character/Myūjadena.html",
-            "name": "Myūjadena",
-            "description": "",
-            "type": "Personnage",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/My%c5%abjadena.png"
-        },
-        "14_page": {
+        "5_page": {
             "path": "/character/Reishikida.html",
             "name": "Reishikida",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Reishikida.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Reishikida.png"
         },
-        "15_page": {
+        "6_page": {
+            "path": "/character/BakaTaida.html",
+            "name": "BakaTaida",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/BakaTaida.png",
+            "img": "http://baka-wiki.rf.gd/img/character/BakaTaida.png"
+        },
+        "7_page": {
             "path": "/character/Sayetsuri.html",
             "name": "Sayetsuri",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Sayetsuri.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Sayetsuri.png"
+        },
+        "8_page": {
+            "path": "/archive/MagicTendo.html",
+            "name": "MagicTendo",
+            "description": "",
+            "color": "#1a0047",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MagicTendo.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/MagicTendo.png"
+        },
+        "9_page": {
+            "path": "/archive/YasuGamesUp.html",
+            "name": "Yasu Games Up !",
+            "description": "",
+            "color": "#34b4eb",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/YasuGamesUp.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/YasuGamesUp.png"
+        },
+        "10_page": {
+            "path": "/archive/ModPhoenixSC.html",
+            "name": "Mod PhoenixSC",
+            "description": "",
+            "color": "#ffff00",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/ModPhoenixSC.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/ModPhoenixSC.png"
+        },
+        "11_page": {
+            "path": "/dimension/D.F.O.A.E.html",
+            "name": "D.F.O.A.E",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/D.F.O.A.E.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/D.F.O.A.E.png"
+        },
+        "12_page": {
+            "path": "/dimension/Chinaisayo.html",
+            "name": "Chinaisayo",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Chinaisayo.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Chinaisayo.png"
+        },
+        "13_page": {
+            "path": "/dimension/Darukyn.html",
+            "name": "Darukyn Mansion",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Darukyn.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Darukyn.png"
+        },
+        "14_page": {
+            "path": "/dimension/Ichinichirin.html",
+            "name": "Ichinichirin",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Ichinichirin.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Ichinichirin.png"
+        },
+        "15_page": {
+            "path": "/dimension/Japuirulando.html",
+            "name": "Japuirulando",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Japuirulando.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Japuirulando.png"
         },
         "16_page": {
-            "path": "/character/Tereya.html",
-            "name": "Tereya",
+            "path": "/dimension/Nacrogira.html",
+            "name": "Nacrogira",
             "description": "",
-            "type": "Personnage",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Tereya.png"
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nacrogira.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Nacrogira.png"
         },
         "17_page": {
-            "path": "/character/Tokinotsuki.html",
-            "name": "Tokinotsuki",
+            "path": "/dimension/Nalonarnui.html",
+            "name": "Nalonarnui",
             "description": "",
-            "type": "Personnage",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/character/Tokinotsuki.png"
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nalonarnui.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Nalonarnui.png"
         },
         "18_page": {
+            "path": "/dimension/Earthland.html",
+            "name": "Earthland",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Earthland.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Earthland.png"
+        },
+        "19_page": {
+            "path": "/dimension/Nomoneru.html",
+            "name": "Nomoneru",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nomoneru.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Nomoneru.png"
+        },
+        "20_page": {
+            "path": "/dimension/Reokireme.html",
+            "name": "Reokireme",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Reokireme.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Reokireme.png"
+        },
+        "21_page": {
+            "path": "/dimension/Uptodownsaido.html",
+            "name": "Uptodownsaido",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Uptodownsaido.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Uptodownsaido.png"
+        },
+        "22_page": {
+            "path": "/dimension/XO-4.2.exe.html",
+            "name": "XO-4.2.exe",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/XO-4.2.exe.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/XO-4.2.exe.png"
+        },
+        "23_page": {
+            "path": "/dimension/Yunranoland.html",
+            "name": "Yunranoland",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Yunranoland.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Yunranoland.png"
+        },
+        "24_page": {
+            "path": "/region/Archotalan.html",
+            "name": "Archotalan",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Archotalan.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Archotalan.png"
+        },
+        "25_page": {
+            "path": "/region/Chimauchū.html",
+            "name": "Chimauchū",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Chimauchū.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Chimauchū.png"
+        },
+        "26_page": {
+            "path": "/region/Iryūjon.html",
+            "name": "Iryūjon",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Iryūjon.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Iryūjon.png"
+        },
+        "27_page": {
+            "path": "/region/Myūjikku.html",
+            "name": "Myūjikku",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Myūjikku.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Myūjikku.png"
+        },
+        "28_page": {
+            "path": "/region/Reidaihōsun.html",
+            "name": "Reidaihōsun",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Reidaihōsun.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Reidaihōsun.png"
+        },
+        "29_page": {
+            "path": "/region/Taimūtaimū.html",
+            "name": "Taimūtaimū",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Taimūtaimū.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Taimūtaimū.png"
+        },
+        "30_page": {
+            "path": "/creature/Rokujūpiku.html",
+            "name": "Rokujūpiku",
+            "description": "",
+            "color": "#874400",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Rokujūpiku.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Rokujūpiku.png"
+        },
+        "31_page": {
+            "path": "/creature/MijisenPet.html",
+            "name": "Mijisen Pet",
+            "description": "",
+            "color": "#002e4d",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/MijisenPet.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/MijisenPet.png"
+        },
+        "32_page": {
+            "path": "/creature/SyseranXO-4.2.html",
+            "name": "SyseranXO-4.2",
+            "description": "",
+            "color": "#c91700",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/SyseranXO-4.2.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/SyseranXO-4.2.png"
+        },
+        "33_page": {
+            "path": "/creature/CorruptedTereya.html",
+            "name": "CorruptedTereya",
+            "description": "",
+            "color": "#262626",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/CorruptedTereya.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/CorruptedTereya.png"
+        },
+        "34_page": {
+            "path": "/region/Kitayorinokaze.html",
+            "name": "Kitayorinokaze",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Kitayorinokaze.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Kitayorinokaze.png"
+        },
+        "35_page": {
+            "path": "/region/Tennenrin.html",
+            "name": "Tennenrin",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Tennenrin.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Tennenrin.png"
+        },
+        "36_page": {
+            "path": "/region/Yōgandaichi.html",
+            "name": "Yōgandaichi",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Yōgandaichi.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Yōgandaichi.png"
+        },
+        "37_page": {
+            "path": "/creature/Yarateni.html",
+            "name": "Yarateni",
+            "description": "",
+            "color": "#adadad",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Yarateni.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Yarateni.png"
+        },
+        "38_page": {
+            "path": "/creature/BlueCube.html",
+            "name": "Blue Cube",
+            "description": "",
+            "color": "#1adff6",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/BlueCube.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/BlueCube.png"
+        },
+        "39_page": {
+            "path": "/creature/Spirit.html",
+            "name": "Spirit",
+            "description": "",
+            "color": "#c8ffff",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Spirit.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Spirit.png"
+        },
+        "40_page": {
+            "path": "/creature/Yakaya.html",
+            "name": "Yakaya",
+            "description": "",
+            "color": "#b71500",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Yakaya.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Yakaya.png"
+        },
+        "41_page": {
+            "path": "/creature/Kyndarun.html",
+            "name": "Kyndarun",
+            "description": "",
+            "color": "#4500a0",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Kyndarun.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Kyndarun.png"
+        },
+        "42_page": {
+            "path": "/creature/Buruburu.html",
+            "name": "Buruburu",
+            "description": "",
+            "color": "#0082e0",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Buruburu.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Buruburu.png"
+        },
+        "43_page": {
+            "path": "/creature/Barubaru.html",
+            "name": "Barubaru",
+            "description": "",
+            "color": "#fbd4e3",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Barubaru.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Barubaru.png"
+        },
+        "44_page": {
+            "path": "/creature/Saroikuni.html",
+            "name": "Saroikuni",
+            "description": "",
+            "color": "#000000",
+            "type": "Créature",
+            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Saroikuni.png",
+            "img": "http://baka-wiki.rf.gd/img/creature/Saroikuni.png"
+        },
+        "45_page": {
+            "path": "/character/KuroworuK.html",
+            "name": "KuroworuK",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/KuroworuK.png",
+            "img": "http://baka-wiki.rf.gd/img/character/KuroworuK.png"
+        },
+        "46_page": {
+            "path": "/character/Lumitayan.html",
+            "name": "Lumitayan",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Lumitayan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Lumitayan.png"
+        },
+        "47_page": {
+            "path": "/character/Saigopoka.html",
+            "name": "Saigopoka",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Saigopoka.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Saigopoka.png"
+        },
+        "48_page": {
+            "path": "/character/Supidoyu.html",
+            "name": "Supidoyu",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Supidoyu.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Supidoyu.png"
+        },
+        "49_page": {
+            "path": "/character/Sutoranju.html",
+            "name": "Sutoranju",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Sutoranju.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Sutoranju.png"
+        },
+        "50_page": {
+            "path": "/character/Ayasusha.html",
+            "name": "Ayasusha",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayasusha.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Ayasusha.png"
+        },
+        "51_page": {
+            "path": "/character/Kōekahi.html",
+            "name": "Kōekahi",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōekahi.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kōekahi.png"
+        },
+        "52_page": {
+            "path": "/character/Kōseitsuki.html",
+            "name": "Kōseitsuki",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseitsuki.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kōseitsuki.png"
+        },
+        "53_page": {
+            "path": "/character/Mijisen.html",
+            "name": "Mijisen",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Mijisen.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Mijisen.png"
+        },
+        "54_page": {
+            "path": "/character/Oradurin.html",
+            "name": "Oradurin",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Oradurin.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Oradurin.png"
+        },
+        "55_page": {
+            "path": "/character/TimeGuardian.html",
+            "name": "Time Guardian",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/TimeGuardian.png",
+            "img": "http://baka-wiki.rf.gd/img/character/TimeGuardian.png"
+        },
+        "56_page": {
+            "path": "/character/Kitsufokkusu.html",
+            "name": "Kitsufokkusu",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kitsufokkusu.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kitsufokkusu.png"
+        },
+        "57_page": {
+            "path": "/character/Neramawa.html",
+            "name": "Neramawa",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Neramawa.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Neramawa.png"
+        },
+        "58_page": {
+            "path": "/character/Nerumono.html",
+            "name": "Nerumono",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Nerumono.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Nerumono.png"
+        },
+        "59_page": {
+            "path": "/character/NerumonoSbire.html",
+            "name": "Sbire de Nerumono",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/NerumonoSbire.png",
+            "img": "http://baka-wiki.rf.gd/img/character/NerumonoSbire.png"
+        },
+        "60_page": {
+            "path": "/character/Suyataru.html",
+            "name": "Suyataru",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Suyataru.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Suyataru.png"
+        },
+        "61_page": {
+            "path": "/character/Ariantaten.html",
+            "name": "Ariantaten",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ariantaten.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Ariantaten.png"
+        },
+        "62_page": {
+            "path": "/character/Awabuburu.html",
+            "name": "Awabuburu",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Awabuburu.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Awabuburu.png"
+        },
+        "63_page": {
+            "path": "/character/Marukeiwan.html",
+            "name": "Marukeiwan",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Marukeiwan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Marukeiwan.png"
+        },
+        "64_page": {
+            "path": "/character/Otibinan.html",
+            "name": "Otibinan",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Otibinan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Otibinan.png"
+        },
+        "65_page": {
+            "path": "/character/Otomadan.html",
+            "name": "Otomadan",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Otomadan.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Otomadan.png"
+        },
+        "66_page": {
+            "path": "/character/Merunoma.html",
+            "name": "Merunoma",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Merunoma.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Merunoma.png"
+        },
+        "67_page": {
+            "path": "/character/Obusidyawa.html",
+            "name": "Obusidyawa",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Obusidyawa.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Obusidyawa.png"
+        },
+        "68_page": {
+            "path": "/character/Turantsoi.html",
+            "name": "Turantsoi",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Turantsoi.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Turantsoi.png"
+        },
+        "69_page": {
+            "path": "/character/Anaruchime.html",
+            "name": "Anaruchime",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Anaruchime.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Anaruchime.png"
+        },
+        "70_page": {
             "path": "/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.html",
             "name": "Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho",
             "description": "",
+            "color": "#",
             "type": "Personnage",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png"
         },
-        "19_page": {
-            "path": "/region/Yukidami.html",
-            "name": "Yukidami",
+        "71_page": {
+            "path": "/archive/Histoire-de-Yunranohi.html",
+            "name": "Histoire de Yunranohi",
             "description": "",
-            "type": "Region",
-            "img": "https://magictendo.github.io/GithubPages/api/BakaWiki-API-IMG/region/Yukidami.png"
+            "color": "#0069d1",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/Yunranohi.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/Yunranohi.png"
         },
-        "20_page": {
+        "72_page": {
+            "path": "/archive/MagiruTendoruVibing.html",
+            "name": "MagiruTendoru Vibing",
+            "description": "",
+            "color": "#990808",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MagiruTendoruVibing.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/MagiruTendoruVibing.png"
+        },
+        "73_page": {
+            "path": "/archive/MusicBattleTournament.html",
+            "name": "Music Battle Tournament",
+            "description": "",
+            "color": "#2727a3",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MusicBattleTournament.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/MusicBattleTournament.png"
+        },
+        "74_page": {
+            "path": "/archive/SomeRandomMedley.html",
+            "name": "Some Random Medley",
+            "description": "",
+            "color": "#8a8a8a",
+            "type": "Archive",
+            "icon": "http://baka-wiki.rf.gd/img/icons/archive/SomeRandomMedley.png",
+            "img": "http://baka-wiki.rf.gd/img/archive/SomeRandomMedley.png"
+        },
+        "75_page": {
+            "path": "/character/Ayabentu.html",
+            "name": "Ayabentu",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayabentu.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Ayabentu.png"
+        },
+        "76_page": {
+            "path": "/character/Kōrufuyuki.html",
+            "name": "Kōrufuyuki",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōrufuyuki.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kōrufuyuki.png"
+        },
+        "77_page": {
+            "path": "/character/Kuraisoki.html",
+            "name": "Kuraisoki",
+            "description": "",
+            "color": "#000000",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kuraisoki.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kuraisoki.png"
+        },
+        "78_page": {
+            "path": "/character/Kyujūgopiku.html",
+            "name": "Kyujūgopiku",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kyujūgopiku.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kyujūgopiku.png"
+        },
+        "79_page": {
+            "path": "/character/Myūjadena.html",
+            "name": "Myūjadena",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Myūjadena.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Myūjadena.png"
+        },
+        "80_page": {
+            "path": "/character/Tereya.html",
+            "name": "Tereya",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Tereya.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Tereya.png"
+        },
+        "81_page": {
+            "path": "/character/Tokinotsuki.html",
+            "name": "Tokinotsuki",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Tokinotsuki.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Tokinotsuki.png"
+        },
+        "82_page": {
+            "path": "/dimension/Nakaie.html",
+            "name": "Nakaie",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nakaie.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Nakaie.png"
+        },
+        "83_page": {
+            "path": "/dimension/ERROR_NAME_NOT_FOUND.html",
+            "name": "ERROR_NAME_NOT_FOUND",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/ERROR_NAME_NOT_FOUND.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/ERROR_NAME_NOT_FOUND.png"
+        },
+        "84_page": {
+            "path": "/dimension/undefined.html",
+            "name": "undefined",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/undefined.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/undefined.png"
+        },
+        "85_page": {
+            "path": "/dimension/Kedrawland.html",
+            "name": "Kedrawland",
+            "description": "",
+            "color": "#",
+            "type": "Dimension",
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kedrawland.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Kedrawland.png"
+        },
+        "86_page": {
             "path": "/dimension/Kyujūgogēmu.html",
             "name": "Kyujūgogēmu",
             "description": "",
+            "color": "#",
             "type": "Dimension",
-            "img": ""
+            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kyujūgogēmu.png",
+            "img": "http://baka-wiki.rf.gd/img/dimension/Kyujūgogēmu.png"
+        },
+        "87_page": {
+            "path": "/region/Yukidami.html",
+            "name": "Yukidami",
+            "description": "",
+            "color": "#",
+            "type": "Région",
+            "icon": "http://baka-wiki.rf.gd/img/icons/region/Yukidami.png",
+            "img": "http://baka-wiki.rf.gd/img/region/Yukidami.png"
+        },
+        "88_page": {
+            "path": "/character/Kedrawifa.html",
+            "name": "Kedrawifa",
+            "description": "",
+            "color": "#",
+            "type": "Personnage",
+            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kedrawifa.png",
+            "img": "http://baka-wiki.rf.gd/img/character/Kedrawifa.png"
         }
     },
-    "numberOfPages": "21"
+    "numberOfPages": "89"
 }
