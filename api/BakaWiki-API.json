@@ -4,7 +4,7 @@
             "path": "/character/Hinosako.html",
             "name": "Hinosako",
             "description": "",
-            "color": "#",
+            "color": "#820707",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Hinosako.png",
             "img": "http://baka-wiki.rf.gd/img/character/Hinosako.png"
@@ -13,7 +13,7 @@
             "path": "/character/Kasenzan.html",
             "name": "Kasenzan",
             "description": "",
-            "color": "#",
+            "color": "#1fa10b",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kasenzan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kasenzan.png"
@@ -22,7 +22,7 @@
             "path": "/character/Ekazenaya.html",
             "name": "Ekazenaya",
             "description": "",
-            "color": "#",
+            "color": "#8f8f8f",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Ekazenaya.png",
             "img": "http://baka-wiki.rf.gd/img/character/Ekazenaya.png"
@@ -31,7 +31,7 @@
             "path": "/character/Ketsudan.html",
             "name": "Ketsudan",
             "description": "",
-            "color": "#",
+            "color": "#a14600",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Ketsudan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Ketsudan.png"
@@ -40,7 +40,7 @@
             "path": "/character/Kōseiden.html",
             "name": "Kōseiden",
             "description": "",
-            "color": "#",
+            "color": "#480075",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseiden.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kōseiden.png"
@@ -49,7 +49,7 @@
             "path": "/character/Reishikida.html",
             "name": "Reishikida",
             "description": "",
-            "color": "#",
+            "color": "#000552",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Reishikida.png",
             "img": "http://baka-wiki.rf.gd/img/character/Reishikida.png"
@@ -58,7 +58,7 @@
             "path": "/character/BakaTaida.html",
             "name": "BakaTaida",
             "description": "",
-            "color": "#",
+            "color": "#0063a1",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/BakaTaida.png",
             "img": "http://baka-wiki.rf.gd/img/character/BakaTaida.png"
@@ -67,7 +67,7 @@
             "path": "/character/Sayetsuri.html",
             "name": "Sayetsuri",
             "description": "",
-            "color": "#",
+            "color": "#0e438a",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Sayetsuri.png",
             "img": "http://baka-wiki.rf.gd/img/character/Sayetsuri.png"
@@ -103,7 +103,7 @@
             "path": "/dimension/D.F.O.A.E.html",
             "name": "D.F.O.A.E",
             "description": "",
-            "color": "#",
+            "color": "#e0920b",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/D.F.O.A.E.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/D.F.O.A.E.png"
@@ -112,7 +112,7 @@
             "path": "/dimension/Chinaisayo.html",
             "name": "Chinaisayo",
             "description": "",
-            "color": "#",
+            "color": "#34d8eb",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Chinaisayo.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Chinaisayo.png"
@@ -121,7 +121,7 @@
             "path": "/dimension/Darukyn.html",
             "name": "Darukyn Mansion",
             "description": "",
-            "color": "#",
+            "color": "#5612b0",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Darukyn.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Darukyn.png"
@@ -130,7 +130,7 @@
             "path": "/dimension/Ichinichirin.html",
             "name": "Ichinichirin",
             "description": "",
-            "color": "#",
+            "color": "#3654d9",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Ichinichirin.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Ichinichirin.png"
@@ -139,7 +139,7 @@
             "path": "/dimension/Japuirulando.html",
             "name": "Japuirulando",
             "description": "",
-            "color": "#",
+            "color": "#9a17cf",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Japuirulando.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Japuirulando.png"
@@ -148,7 +148,7 @@
             "path": "/dimension/Nacrogira.html",
             "name": "Nacrogira",
             "description": "",
-            "color": "#",
+            "color": "#c70aab",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nacrogira.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Nacrogira.png"
@@ -157,7 +157,7 @@
             "path": "/dimension/Nalonarnui.html",
             "name": "Nalonarnui",
             "description": "",
-            "color": "#",
+            "color": "#001338",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nalonarnui.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Nalonarnui.png"
@@ -166,7 +166,7 @@
             "path": "/dimension/Earthland.html",
             "name": "Earthland",
             "description": "",
-            "color": "#",
+            "color": "#17c22e",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Earthland.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Earthland.png"
@@ -175,7 +175,7 @@
             "path": "/dimension/Nomoneru.html",
             "name": "Nomoneru",
             "description": "",
-            "color": "#",
+            "color": "#b0004c",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nomoneru.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Nomoneru.png"
@@ -184,7 +184,7 @@
             "path": "/dimension/Reokireme.html",
             "name": "Reokireme",
             "description": "",
-            "color": "#",
+            "color": "#d40f0f",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Reokireme.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Reokireme.png"
@@ -193,7 +193,7 @@
             "path": "/dimension/Uptodownsaido.html",
             "name": "Uptodownsaido",
             "description": "",
-            "color": "#",
+            "color": "#62cf0e",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Uptodownsaido.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Uptodownsaido.png"
@@ -202,7 +202,7 @@
             "path": "/dimension/XO-4.2.exe.html",
             "name": "XO-4.2.exe",
             "description": "",
-            "color": "#",
+            "color": "#cf2e0e",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/XO-4.2.exe.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/XO-4.2.exe.png"
@@ -211,7 +211,7 @@
             "path": "/dimension/Yunranoland.html",
             "name": "Yunranoland",
             "description": "",
-            "color": "#",
+            "color": "#2594cc",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Yunranoland.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Yunranoland.png"
@@ -220,7 +220,7 @@
             "path": "/region/Archotalan.html",
             "name": "Archotalan",
             "description": "",
-            "color": "#",
+            "color": "#737373",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Archotalan.png",
             "img": "http://baka-wiki.rf.gd/img/region/Archotalan.png"
@@ -229,7 +229,7 @@
             "path": "/region/Chimauchū.html",
             "name": "Chimauchū",
             "description": "",
-            "color": "#",
+            "color": "#441b57",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Chimauchū.png",
             "img": "http://baka-wiki.rf.gd/img/region/Chimauchū.png"
@@ -238,7 +238,7 @@
             "path": "/region/Iryūjon.html",
             "name": "Iryūjon",
             "description": "",
-            "color": "#",
+            "color": "#bf22c7",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Iryūjon.png",
             "img": "http://baka-wiki.rf.gd/img/region/Iryūjon.png"
@@ -247,7 +247,7 @@
             "path": "/region/Myūjikku.html",
             "name": "Myūjikku",
             "description": "",
-            "color": "#",
+            "color": "#e7eb10",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Myūjikku.png",
             "img": "http://baka-wiki.rf.gd/img/region/Myūjikku.png"
@@ -256,7 +256,7 @@
             "path": "/region/Reidaihōsun.html",
             "name": "Reidaihōsun",
             "description": "",
-            "color": "#",
+            "color": "#1f0766",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Reidaihōsun.png",
             "img": "http://baka-wiki.rf.gd/img/region/Reidaihōsun.png"
@@ -265,7 +265,7 @@
             "path": "/region/Taimūtaimū.html",
             "name": "Taimūtaimū",
             "description": "",
-            "color": "#",
+            "color": "#c7620a",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Taimūtaimū.png",
             "img": "http://baka-wiki.rf.gd/img/region/Taimūtaimū.png"
@@ -310,7 +310,7 @@
             "path": "/region/Kitayorinokaze.html",
             "name": "Kitayorinokaze",
             "description": "",
-            "color": "#",
+            "color": "#d1d1d1",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Kitayorinokaze.png",
             "img": "http://baka-wiki.rf.gd/img/region/Kitayorinokaze.png"
@@ -319,7 +319,7 @@
             "path": "/region/Tennenrin.html",
             "name": "Tennenrin",
             "description": "",
-            "color": "#",
+            "color": "#05b517",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Tennenrin.png",
             "img": "http://baka-wiki.rf.gd/img/region/Tennenrin.png"
@@ -328,7 +328,7 @@
             "path": "/region/Yōgandaichi.html",
             "name": "Yōgandaichi",
             "description": "",
-            "color": "#",
+            "color": "#9e0808",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Yōgandaichi.png",
             "img": "http://baka-wiki.rf.gd/img/region/Yōgandaichi.png"
@@ -409,7 +409,7 @@
             "path": "/character/KuroworuK.html",
             "name": "KuroworuK",
             "description": "",
-            "color": "#",
+            "color": "#363636",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/KuroworuK.png",
             "img": "http://baka-wiki.rf.gd/img/character/KuroworuK.png"
@@ -418,7 +418,7 @@
             "path": "/character/Lumitayan.html",
             "name": "Lumitayan",
             "description": "",
-            "color": "#",
+            "color": "#fff985",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Lumitayan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Lumitayan.png"
@@ -427,7 +427,7 @@
             "path": "/character/Saigopoka.html",
             "name": "Saigopoka",
             "description": "",
-            "color": "#",
+            "color": "#28632c",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Saigopoka.png",
             "img": "http://baka-wiki.rf.gd/img/character/Saigopoka.png"
@@ -436,7 +436,7 @@
             "path": "/character/Supidoyu.html",
             "name": "Supidoyu",
             "description": "",
-            "color": "#",
+            "color": "#193052",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Supidoyu.png",
             "img": "http://baka-wiki.rf.gd/img/character/Supidoyu.png"
@@ -445,7 +445,7 @@
             "path": "/character/Sutoranju.html",
             "name": "Sutoranju",
             "description": "",
-            "color": "#",
+            "color": "#ff7e70",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Sutoranju.png",
             "img": "http://baka-wiki.rf.gd/img/character/Sutoranju.png"
@@ -454,7 +454,7 @@
             "path": "/character/Ayasusha.html",
             "name": "Ayasusha",
             "description": "",
-            "color": "#",
+            "color": "#f7f7f7",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayasusha.png",
             "img": "http://baka-wiki.rf.gd/img/character/Ayasusha.png"
@@ -463,7 +463,7 @@
             "path": "/character/Kōekahi.html",
             "name": "Kōekahi",
             "description": "",
-            "color": "#",
+            "color": "#458e8f",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōekahi.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kōekahi.png"
@@ -472,7 +472,7 @@
             "path": "/character/Kōseitsuki.html",
             "name": "Kōseitsuki",
             "description": "",
-            "color": "#",
+            "color": "#443285",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseitsuki.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kōseitsuki.png"
@@ -481,7 +481,7 @@
             "path": "/character/Mijisen.html",
             "name": "Mijisen",
             "description": "",
-            "color": "#",
+            "color": "#162657",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Mijisen.png",
             "img": "http://baka-wiki.rf.gd/img/character/Mijisen.png"
@@ -490,7 +490,7 @@
             "path": "/character/Oradurin.html",
             "name": "Oradurin",
             "description": "",
-            "color": "#",
+            "color": "#db7012",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Oradurin.png",
             "img": "http://baka-wiki.rf.gd/img/character/Oradurin.png"
@@ -499,7 +499,7 @@
             "path": "/character/TimeGuardian.html",
             "name": "Time Guardian",
             "description": "",
-            "color": "#",
+            "color": "#bd900b",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/TimeGuardian.png",
             "img": "http://baka-wiki.rf.gd/img/character/TimeGuardian.png"
@@ -508,7 +508,7 @@
             "path": "/character/Kitsufokkusu.html",
             "name": "Kitsufokkusu",
             "description": "",
-            "color": "#",
+            "color": "#bd640b",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kitsufokkusu.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kitsufokkusu.png"
@@ -517,7 +517,7 @@
             "path": "/character/Neramawa.html",
             "name": "Neramawa",
             "description": "",
-            "color": "#",
+            "color": "#800b6c",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Neramawa.png",
             "img": "http://baka-wiki.rf.gd/img/character/Neramawa.png"
@@ -526,7 +526,7 @@
             "path": "/character/Nerumono.html",
             "name": "Nerumono",
             "description": "",
-            "color": "#",
+            "color": "#570649",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Nerumono.png",
             "img": "http://baka-wiki.rf.gd/img/character/Nerumono.png"
@@ -535,7 +535,7 @@
             "path": "/character/NerumonoSbire.html",
             "name": "Sbire de Nerumono",
             "description": "",
-            "color": "#",
+            "color": "#4f324a",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/NerumonoSbire.png",
             "img": "http://baka-wiki.rf.gd/img/character/NerumonoSbire.png"
@@ -544,7 +544,7 @@
             "path": "/character/Suyataru.html",
             "name": "Suyataru",
             "description": "",
-            "color": "#",
+            "color": "#618eb0",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Suyataru.png",
             "img": "http://baka-wiki.rf.gd/img/character/Suyataru.png"
@@ -553,7 +553,7 @@
             "path": "/character/Ariantaten.html",
             "name": "Ariantaten",
             "description": "",
-            "color": "#",
+            "color": "#11ba41",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Ariantaten.png",
             "img": "http://baka-wiki.rf.gd/img/character/Ariantaten.png"
@@ -562,7 +562,7 @@
             "path": "/character/Awabuburu.html",
             "name": "Awabuburu",
             "description": "",
-            "color": "#",
+            "color": "#94fdff",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Awabuburu.png",
             "img": "http://baka-wiki.rf.gd/img/character/Awabuburu.png"
@@ -571,7 +571,7 @@
             "path": "/character/Marukeiwan.html",
             "name": "Marukeiwan",
             "description": "",
-            "color": "#",
+            "color": "#51c8e0",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Marukeiwan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Marukeiwan.png"
@@ -580,7 +580,7 @@
             "path": "/character/Otibinan.html",
             "name": "Otibinan",
             "description": "",
-            "color": "#",
+            "color": "#36090f",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Otibinan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Otibinan.png"
@@ -589,7 +589,7 @@
             "path": "/character/Otomadan.html",
             "name": "Otomadan",
             "description": "",
-            "color": "#",
+            "color": "#7d460f",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Otomadan.png",
             "img": "http://baka-wiki.rf.gd/img/character/Otomadan.png"
@@ -598,7 +598,7 @@
             "path": "/character/Merunoma.html",
             "name": "Merunoma",
             "description": "",
-            "color": "#",
+            "color": "#9e1078",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Merunoma.png",
             "img": "http://baka-wiki.rf.gd/img/character/Merunoma.png"
@@ -607,7 +607,7 @@
             "path": "/character/Obusidyawa.html",
             "name": "Obusidyawa",
             "description": "",
-            "color": "#",
+            "color": "#25153d",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Obusidyawa.png",
             "img": "http://baka-wiki.rf.gd/img/character/Obusidyawa.png"
@@ -616,7 +616,7 @@
             "path": "/character/Turantsoi.html",
             "name": "Turantsoi",
             "description": "",
-            "color": "#",
+            "color": "#c4c4c4",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Turantsoi.png",
             "img": "http://baka-wiki.rf.gd/img/character/Turantsoi.png"
@@ -625,7 +625,7 @@
             "path": "/character/Anaruchime.html",
             "name": "Anaruchime",
             "description": "",
-            "color": "#",
+            "color": "#193045",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Anaruchime.png",
             "img": "http://baka-wiki.rf.gd/img/character/Anaruchime.png"
@@ -634,7 +634,7 @@
             "path": "/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.html",
             "name": "Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho",
             "description": "",
-            "color": "#",
+            "color": "#107312",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
             "img": "http://baka-wiki.rf.gd/img/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png"
@@ -679,7 +679,7 @@
             "path": "/character/Ayabentu.html",
             "name": "Ayabentu",
             "description": "",
-            "color": "#",
+            "color": "#bf0202",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayabentu.png",
             "img": "http://baka-wiki.rf.gd/img/character/Ayabentu.png"
@@ -688,7 +688,7 @@
             "path": "/character/Kōrufuyuki.html",
             "name": "Kōrufuyuki",
             "description": "",
-            "color": "#",
+            "color": "#12238c",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōrufuyuki.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kōrufuyuki.png"
@@ -706,7 +706,7 @@
             "path": "/character/Kyujūgopiku.html",
             "name": "Kyujūgopiku",
             "description": "",
-            "color": "#",
+            "color": "#522a00",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kyujūgopiku.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kyujūgopiku.png"
@@ -715,7 +715,7 @@
             "path": "/character/Myūjadena.html",
             "name": "Myūjadena",
             "description": "",
-            "color": "#",
+            "color": "#fff000",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Myūjadena.png",
             "img": "http://baka-wiki.rf.gd/img/character/Myūjadena.png"
@@ -724,7 +724,7 @@
             "path": "/character/Tereya.html",
             "name": "Tereya",
             "description": "",
-            "color": "#",
+            "color": "#ebebeb",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Tereya.png",
             "img": "http://baka-wiki.rf.gd/img/character/Tereya.png"
@@ -733,7 +733,7 @@
             "path": "/character/Tokinotsuki.html",
             "name": "Tokinotsuki",
             "description": "",
-            "color": "#",
+            "color": "#ff6600",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Tokinotsuki.png",
             "img": "http://baka-wiki.rf.gd/img/character/Tokinotsuki.png"
@@ -742,7 +742,7 @@
             "path": "/dimension/Nakaie.html",
             "name": "Nakaie",
             "description": "",
-            "color": "#",
+            "color": "#382615",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nakaie.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Nakaie.png"
@@ -751,7 +751,7 @@
             "path": "/dimension/ERROR_NAME_NOT_FOUND.html",
             "name": "ERROR_NAME_NOT_FOUND",
             "description": "",
-            "color": "#",
+            "color": "#022e00",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/ERROR_NAME_NOT_FOUND.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/ERROR_NAME_NOT_FOUND.png"
@@ -760,7 +760,7 @@
             "path": "/dimension/undefined.html",
             "name": "undefined",
             "description": "",
-            "color": "#",
+            "color": "#851400",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/undefined.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/undefined.png"
@@ -769,7 +769,7 @@
             "path": "/dimension/Kedrawland.html",
             "name": "Kedrawland",
             "description": "",
-            "color": "#",
+            "color": "#f0f0f0",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kedrawland.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Kedrawland.png"
@@ -778,7 +778,7 @@
             "path": "/dimension/Kyujūgogēmu.html",
             "name": "Kyujūgogēmu",
             "description": "",
-            "color": "#",
+            "color": "#753300",
             "type": "Dimension",
             "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kyujūgogēmu.png",
             "img": "http://baka-wiki.rf.gd/img/dimension/Kyujūgogēmu.png"
@@ -787,7 +787,7 @@
             "path": "/region/Yukidami.html",
             "name": "Yukidami",
             "description": "",
-            "color": "#",
+            "color": "#f5f5f5",
             "type": "Région",
             "icon": "http://baka-wiki.rf.gd/img/icons/region/Yukidami.png",
             "img": "http://baka-wiki.rf.gd/img/region/Yukidami.png"
@@ -796,7 +796,7 @@
             "path": "/character/Kedrawifa.html",
             "name": "Kedrawifa",
             "description": "",
-            "color": "#",
+            "color": "#fafafa",
             "type": "Personnage",
             "icon": "http://baka-wiki.rf.gd/img/icons/character/Kedrawifa.png",
             "img": "http://baka-wiki.rf.gd/img/character/Kedrawifa.png"
