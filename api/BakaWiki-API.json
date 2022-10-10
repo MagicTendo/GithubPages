@@ -6,8 +6,8 @@
             "description": "",
             "color": "#820707",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Hinosako.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Hinosako.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Hinosako.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Hinosako.png"
         },
         "1_page": {
             "path": "/character/Kasenzan.html",
@@ -15,8 +15,8 @@
             "description": "",
             "color": "#1fa10b",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kasenzan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kasenzan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kasenzan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kasenzan.png"
         },
         "2_page": {
             "path": "/character/Ekazenaya.html",
@@ -24,8 +24,8 @@
             "description": "",
             "color": "#8f8f8f",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ekazenaya.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Ekazenaya.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ekazenaya.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ekazenaya.png"
         },
         "3_page": {
             "path": "/character/Ketsudan.html",
@@ -33,8 +33,8 @@
             "description": "",
             "color": "#a14600",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ketsudan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Ketsudan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ketsudan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ketsudan.png"
         },
         "4_page": {
             "path": "/character/Kōseiden.html",
@@ -42,8 +42,8 @@
             "description": "",
             "color": "#480075",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseiden.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kōseiden.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōseiden.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōseiden.png"
         },
         "5_page": {
             "path": "/character/Reishikida.html",
@@ -51,8 +51,8 @@
             "description": "",
             "color": "#000552",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Reishikida.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Reishikida.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Reishikida.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Reishikida.png"
         },
         "6_page": {
             "path": "/character/BakaTaida.html",
@@ -60,8 +60,8 @@
             "description": "",
             "color": "#0063a1",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/BakaTaida.png",
-            "img": "http://baka-wiki.rf.gd/img/character/BakaTaida.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/BakaTaida.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/BakaTaida.png"
         },
         "7_page": {
             "path": "/character/Sayetsuri.html",
@@ -69,8 +69,8 @@
             "description": "",
             "color": "#0e438a",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Sayetsuri.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Sayetsuri.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Sayetsuri.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Sayetsuri.png"
         },
         "8_page": {
             "path": "/archive/MagicTendo.html",
@@ -78,8 +78,8 @@
             "description": "",
             "color": "#1a0047",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MagicTendo.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/MagicTendo.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/MagicTendo.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/MagicTendo.png"
         },
         "9_page": {
             "path": "/archive/YasuGamesUp.html",
@@ -87,8 +87,8 @@
             "description": "",
             "color": "#34b4eb",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/YasuGamesUp.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/YasuGamesUp.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/YasuGamesUp.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/YasuGamesUp.png"
         },
         "10_page": {
             "path": "/archive/ModPhoenixSC.html",
@@ -96,8 +96,8 @@
             "description": "",
             "color": "#ffff00",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/ModPhoenixSC.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/ModPhoenixSC.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/ModPhoenixSC.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/ModPhoenixSC.png"
         },
         "11_page": {
             "path": "/dimension/D.F.O.A.E.html",
@@ -105,8 +105,8 @@
             "description": "",
             "color": "#e0920b",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/D.F.O.A.E.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/D.F.O.A.E.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/D.F.O.A.E.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/D.F.O.A.E.png"
         },
         "12_page": {
             "path": "/dimension/Chinaisayo.html",
@@ -114,8 +114,8 @@
             "description": "",
             "color": "#34d8eb",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Chinaisayo.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Chinaisayo.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Chinaisayo.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Chinaisayo.png"
         },
         "13_page": {
             "path": "/dimension/Darukyn.html",
@@ -123,8 +123,8 @@
             "description": "",
             "color": "#5612b0",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Darukyn.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Darukyn.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Darukyn.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Darukyn.png"
         },
         "14_page": {
             "path": "/dimension/Ichinichirin.html",
@@ -132,8 +132,8 @@
             "description": "",
             "color": "#3654d9",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Ichinichirin.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Ichinichirin.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Ichinichirin.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Ichinichirin.png"
         },
         "15_page": {
             "path": "/dimension/Japuirulando.html",
@@ -141,8 +141,8 @@
             "description": "",
             "color": "#9a17cf",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Japuirulando.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Japuirulando.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Japuirulando.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Japuirulando.png"
         },
         "16_page": {
             "path": "/dimension/Nacrogira.html",
@@ -150,8 +150,8 @@
             "description": "",
             "color": "#c70aab",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nacrogira.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Nacrogira.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Nacrogira.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Nacrogira.png"
         },
         "17_page": {
             "path": "/dimension/Nalonarnui.html",
@@ -159,8 +159,8 @@
             "description": "",
             "color": "#001338",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nalonarnui.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Nalonarnui.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Nalonarnui.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Nalonarnui.png"
         },
         "18_page": {
             "path": "/dimension/Earthland.html",
@@ -168,8 +168,8 @@
             "description": "",
             "color": "#17c22e",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Earthland.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Earthland.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Earthland.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Earthland.png"
         },
         "19_page": {
             "path": "/dimension/Nomoneru.html",
@@ -177,8 +177,8 @@
             "description": "",
             "color": "#b0004c",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nomoneru.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Nomoneru.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Nomoneru.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Nomoneru.png"
         },
         "20_page": {
             "path": "/dimension/Reokireme.html",
@@ -186,8 +186,8 @@
             "description": "",
             "color": "#d40f0f",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Reokireme.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Reokireme.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Reokireme.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Reokireme.png"
         },
         "21_page": {
             "path": "/dimension/Uptodownsaido.html",
@@ -195,8 +195,8 @@
             "description": "",
             "color": "#62cf0e",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Uptodownsaido.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Uptodownsaido.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Uptodownsaido.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Uptodownsaido.png"
         },
         "22_page": {
             "path": "/dimension/XO-4.2.exe.html",
@@ -204,8 +204,8 @@
             "description": "",
             "color": "#cf2e0e",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/XO-4.2.exe.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/XO-4.2.exe.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/XO-4.2.exe.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/XO-4.2.exe.png"
         },
         "23_page": {
             "path": "/dimension/Yunranoland.html",
@@ -213,8 +213,8 @@
             "description": "",
             "color": "#2594cc",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Yunranoland.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Yunranoland.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Yunranoland.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Yunranoland.png"
         },
         "24_page": {
             "path": "/region/Archotalan.html",
@@ -222,8 +222,8 @@
             "description": "",
             "color": "#737373",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Archotalan.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Archotalan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Archotalan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Archotalan.png"
         },
         "25_page": {
             "path": "/region/Chimauchū.html",
@@ -231,8 +231,8 @@
             "description": "",
             "color": "#441b57",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Chimauchū.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Chimauchū.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Chimauchū.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Chimauchū.png"
         },
         "26_page": {
             "path": "/region/Iryūjon.html",
@@ -240,8 +240,8 @@
             "description": "",
             "color": "#bf22c7",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Iryūjon.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Iryūjon.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Iryūjon.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Iryūjon.png"
         },
         "27_page": {
             "path": "/region/Myūjikku.html",
@@ -249,8 +249,8 @@
             "description": "",
             "color": "#e7eb10",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Myūjikku.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Myūjikku.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Myūjikku.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Myūjikku.png"
         },
         "28_page": {
             "path": "/region/Reidaihōsun.html",
@@ -258,8 +258,8 @@
             "description": "",
             "color": "#1f0766",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Reidaihōsun.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Reidaihōsun.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Reidaihōsun.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Reidaihōsun.png"
         },
         "29_page": {
             "path": "/region/Taimūtaimū.html",
@@ -267,8 +267,8 @@
             "description": "",
             "color": "#c7620a",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Taimūtaimū.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Taimūtaimū.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Taimūtaimū.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Taimūtaimū.png"
         },
         "30_page": {
             "path": "/creature/Rokujūpiku.html",
@@ -276,8 +276,8 @@
             "description": "",
             "color": "#874400",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Rokujūpiku.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Rokujūpiku.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Rokujūpiku.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Rokujūpiku.png"
         },
         "31_page": {
             "path": "/creature/MijisenPet.html",
@@ -285,8 +285,8 @@
             "description": "",
             "color": "#002e4d",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/MijisenPet.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/MijisenPet.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/MijisenPet.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/MijisenPet.png"
         },
         "32_page": {
             "path": "/creature/SyseranXO-4.2.html",
@@ -294,8 +294,8 @@
             "description": "",
             "color": "#c91700",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/SyseranXO-4.2.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/SyseranXO-4.2.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/SyseranXO-4.2.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/SyseranXO-4.2.png"
         },
         "33_page": {
             "path": "/creature/CorruptedTereya.html",
@@ -303,8 +303,8 @@
             "description": "",
             "color": "#262626",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/CorruptedTereya.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/CorruptedTereya.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/CorruptedTereya.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/CorruptedTereya.png"
         },
         "34_page": {
             "path": "/region/Kitayorinokaze.html",
@@ -312,8 +312,8 @@
             "description": "",
             "color": "#d1d1d1",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Kitayorinokaze.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Kitayorinokaze.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Kitayorinokaze.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Kitayorinokaze.png"
         },
         "35_page": {
             "path": "/region/Tennenrin.html",
@@ -321,8 +321,8 @@
             "description": "",
             "color": "#05b517",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Tennenrin.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Tennenrin.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Tennenrin.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Tennenrin.png"
         },
         "36_page": {
             "path": "/region/Yōgandaichi.html",
@@ -330,8 +330,8 @@
             "description": "",
             "color": "#9e0808",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Yōgandaichi.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Yōgandaichi.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Yōgandaichi.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Yōgandaichi.png"
         },
         "37_page": {
             "path": "/creature/Yarateni.html",
@@ -339,8 +339,8 @@
             "description": "",
             "color": "#adadad",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Yarateni.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Yarateni.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Yarateni.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Yarateni.png"
         },
         "38_page": {
             "path": "/creature/BlueCube.html",
@@ -348,8 +348,8 @@
             "description": "",
             "color": "#1adff6",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/BlueCube.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/BlueCube.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/BlueCube.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/BlueCube.png"
         },
         "39_page": {
             "path": "/creature/Spirit.html",
@@ -357,8 +357,8 @@
             "description": "",
             "color": "#c8ffff",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Spirit.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Spirit.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Spirit.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Spirit.png"
         },
         "40_page": {
             "path": "/creature/Yakaya.html",
@@ -366,8 +366,8 @@
             "description": "",
             "color": "#b71500",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Yakaya.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Yakaya.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Yakaya.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Yakaya.png"
         },
         "41_page": {
             "path": "/creature/Kyndarun.html",
@@ -375,8 +375,8 @@
             "description": "",
             "color": "#4500a0",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Kyndarun.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Kyndarun.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Kyndarun.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Kyndarun.png"
         },
         "42_page": {
             "path": "/creature/Buruburu.html",
@@ -384,8 +384,8 @@
             "description": "",
             "color": "#0082e0",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Buruburu.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Buruburu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Buruburu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Buruburu.png"
         },
         "43_page": {
             "path": "/creature/Barubaru.html",
@@ -393,8 +393,8 @@
             "description": "",
             "color": "#fbd4e3",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Barubaru.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Barubaru.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Barubaru.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Barubaru.png"
         },
         "44_page": {
             "path": "/creature/Saroikuni.html",
@@ -402,8 +402,8 @@
             "description": "",
             "color": "#000000",
             "type": "Créature",
-            "icon": "http://baka-wiki.rf.gd/img/icons/creature/Saroikuni.png",
-            "img": "http://baka-wiki.rf.gd/img/creature/Saroikuni.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Saroikuni.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Saroikuni.png"
         },
         "45_page": {
             "path": "/character/KuroworuK.html",
@@ -411,8 +411,8 @@
             "description": "",
             "color": "#363636",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/KuroworuK.png",
-            "img": "http://baka-wiki.rf.gd/img/character/KuroworuK.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/KuroworuK.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/KuroworuK.png"
         },
         "46_page": {
             "path": "/character/Lumitayan.html",
@@ -420,8 +420,8 @@
             "description": "",
             "color": "#fff985",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Lumitayan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Lumitayan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Lumitayan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Lumitayan.png"
         },
         "47_page": {
             "path": "/character/Saigopoka.html",
@@ -429,8 +429,8 @@
             "description": "",
             "color": "#28632c",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Saigopoka.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Saigopoka.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Saigopoka.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Saigopoka.png"
         },
         "48_page": {
             "path": "/character/Supidoyu.html",
@@ -438,8 +438,8 @@
             "description": "",
             "color": "#193052",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Supidoyu.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Supidoyu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Supidoyu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Supidoyu.png"
         },
         "49_page": {
             "path": "/character/Sutoranju.html",
@@ -447,8 +447,8 @@
             "description": "",
             "color": "#ff7e70",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Sutoranju.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Sutoranju.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Sutoranju.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Sutoranju.png"
         },
         "50_page": {
             "path": "/character/Ayasusha.html",
@@ -456,8 +456,8 @@
             "description": "",
             "color": "#f7f7f7",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayasusha.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Ayasusha.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ayasusha.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ayasusha.png"
         },
         "51_page": {
             "path": "/character/Kōekahi.html",
@@ -465,8 +465,8 @@
             "description": "",
             "color": "#458e8f",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōekahi.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kōekahi.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōekahi.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōekahi.png"
         },
         "52_page": {
             "path": "/character/Kōseitsuki.html",
@@ -474,8 +474,8 @@
             "description": "",
             "color": "#443285",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōseitsuki.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kōseitsuki.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōseitsuki.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōseitsuki.png"
         },
         "53_page": {
             "path": "/character/Mijisen.html",
@@ -483,8 +483,8 @@
             "description": "",
             "color": "#162657",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Mijisen.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Mijisen.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Mijisen.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Mijisen.png"
         },
         "54_page": {
             "path": "/character/Oradurin.html",
@@ -492,8 +492,8 @@
             "description": "",
             "color": "#db7012",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Oradurin.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Oradurin.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Oradurin.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Oradurin.png"
         },
         "55_page": {
             "path": "/character/TimeGuardian.html",
@@ -501,8 +501,8 @@
             "description": "",
             "color": "#bd900b",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/TimeGuardian.png",
-            "img": "http://baka-wiki.rf.gd/img/character/TimeGuardian.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/TimeGuardian.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/TimeGuardian.png"
         },
         "56_page": {
             "path": "/character/Kitsufokkusu.html",
@@ -510,8 +510,8 @@
             "description": "",
             "color": "#bd640b",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kitsufokkusu.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kitsufokkusu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kitsufokkusu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kitsufokkusu.png"
         },
         "57_page": {
             "path": "/character/Neramawa.html",
@@ -519,8 +519,8 @@
             "description": "",
             "color": "#800b6c",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Neramawa.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Neramawa.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Neramawa.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Neramawa.png"
         },
         "58_page": {
             "path": "/character/Nerumono.html",
@@ -528,8 +528,8 @@
             "description": "",
             "color": "#570649",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Nerumono.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Nerumono.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Nerumono.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Nerumono.png"
         },
         "59_page": {
             "path": "/character/NerumonoSbire.html",
@@ -537,8 +537,8 @@
             "description": "",
             "color": "#4f324a",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/NerumonoSbire.png",
-            "img": "http://baka-wiki.rf.gd/img/character/NerumonoSbire.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/NerumonoSbire.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/NerumonoSbire.png"
         },
         "60_page": {
             "path": "/character/Suyataru.html",
@@ -546,8 +546,8 @@
             "description": "",
             "color": "#618eb0",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Suyataru.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Suyataru.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Suyataru.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Suyataru.png"
         },
         "61_page": {
             "path": "/character/Ariantaten.html",
@@ -555,8 +555,8 @@
             "description": "",
             "color": "#11ba41",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ariantaten.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Ariantaten.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ariantaten.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ariantaten.png"
         },
         "62_page": {
             "path": "/character/Awabuburu.html",
@@ -564,8 +564,8 @@
             "description": "",
             "color": "#94fdff",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Awabuburu.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Awabuburu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Awabuburu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Awabuburu.png"
         },
         "63_page": {
             "path": "/character/Marukeiwan.html",
@@ -573,8 +573,8 @@
             "description": "",
             "color": "#51c8e0",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Marukeiwan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Marukeiwan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Marukeiwan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Marukeiwan.png"
         },
         "64_page": {
             "path": "/character/Otibinan.html",
@@ -582,8 +582,8 @@
             "description": "",
             "color": "#36090f",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Otibinan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Otibinan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Otibinan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Otibinan.png"
         },
         "65_page": {
             "path": "/character/Otomadan.html",
@@ -591,8 +591,8 @@
             "description": "",
             "color": "#7d460f",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Otomadan.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Otomadan.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Otomadan.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Otomadan.png"
         },
         "66_page": {
             "path": "/character/Merunoma.html",
@@ -600,8 +600,8 @@
             "description": "",
             "color": "#9e1078",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Merunoma.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Merunoma.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Merunoma.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Merunoma.png"
         },
         "67_page": {
             "path": "/character/Obusidyawa.html",
@@ -609,8 +609,8 @@
             "description": "",
             "color": "#25153d",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Obusidyawa.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Obusidyawa.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Obusidyawa.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Obusidyawa.png"
         },
         "68_page": {
             "path": "/character/Turantsoi.html",
@@ -618,8 +618,8 @@
             "description": "",
             "color": "#c4c4c4",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Turantsoi.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Turantsoi.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Turantsoi.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Turantsoi.png"
         },
         "69_page": {
             "path": "/character/Anaruchime.html",
@@ -627,8 +627,8 @@
             "description": "",
             "color": "#193045",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Anaruchime.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Anaruchime.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Anaruchime.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Anaruchime.png"
         },
         "70_page": {
             "path": "/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.html",
@@ -636,8 +636,8 @@
             "description": "",
             "color": "#107312",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png"
         },
         "71_page": {
             "path": "/archive/Histoire-de-Yunranohi.html",
@@ -645,8 +645,8 @@
             "description": "",
             "color": "#0069d1",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/Yunranohi.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/Yunranohi.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/Yunranohi.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/Yunranohi.png"
         },
         "72_page": {
             "path": "/archive/MagiruTendoruVibing.html",
@@ -654,8 +654,8 @@
             "description": "",
             "color": "#990808",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MagiruTendoruVibing.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/MagiruTendoruVibing.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/MagiruTendoruVibing.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/MagiruTendoruVibing.png"
         },
         "73_page": {
             "path": "/archive/MusicBattleTournament.html",
@@ -663,8 +663,8 @@
             "description": "",
             "color": "#2727a3",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/MusicBattleTournament.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/MusicBattleTournament.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/MusicBattleTournament.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/MusicBattleTournament.png"
         },
         "74_page": {
             "path": "/archive/SomeRandomMedley.html",
@@ -672,8 +672,8 @@
             "description": "",
             "color": "#8a8a8a",
             "type": "Archive",
-            "icon": "http://baka-wiki.rf.gd/img/icons/archive/SomeRandomMedley.png",
-            "img": "http://baka-wiki.rf.gd/img/archive/SomeRandomMedley.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/SomeRandomMedley.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/SomeRandomMedley.png"
         },
         "75_page": {
             "path": "/character/Ayabentu.html",
@@ -681,8 +681,8 @@
             "description": "",
             "color": "#bf0202",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Ayabentu.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Ayabentu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ayabentu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ayabentu.png"
         },
         "76_page": {
             "path": "/character/Kōrufuyuki.html",
@@ -690,8 +690,8 @@
             "description": "",
             "color": "#12238c",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kōrufuyuki.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kōrufuyuki.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōrufuyuki.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōrufuyuki.png"
         },
         "77_page": {
             "path": "/character/Kuraisoki.html",
@@ -699,8 +699,8 @@
             "description": "",
             "color": "#000000",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kuraisoki.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kuraisoki.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kuraisoki.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kuraisoki.png"
         },
         "78_page": {
             "path": "/character/Kyujūgopiku.html",
@@ -708,8 +708,8 @@
             "description": "",
             "color": "#522a00",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kyujūgopiku.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kyujūgopiku.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kyujūgopiku.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kyujūgopiku.png"
         },
         "79_page": {
             "path": "/character/Myūjadena.html",
@@ -717,8 +717,8 @@
             "description": "",
             "color": "#fff000",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Myūjadena.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Myūjadena.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Myūjadena.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Myūjadena.png"
         },
         "80_page": {
             "path": "/character/Tereya.html",
@@ -726,8 +726,8 @@
             "description": "",
             "color": "#ebebeb",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Tereya.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Tereya.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Tereya.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Tereya.png"
         },
         "81_page": {
             "path": "/character/Tokinotsuki.html",
@@ -735,8 +735,8 @@
             "description": "",
             "color": "#ff6600",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Tokinotsuki.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Tokinotsuki.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Tokinotsuki.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Tokinotsuki.png"
         },
         "82_page": {
             "path": "/dimension/Nakaie.html",
@@ -744,8 +744,8 @@
             "description": "",
             "color": "#382615",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Nakaie.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Nakaie.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Nakaie.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Nakaie.png"
         },
         "83_page": {
             "path": "/dimension/ERROR_NAME_NOT_FOUND.html",
@@ -753,8 +753,8 @@
             "description": "",
             "color": "#022e00",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/ERROR_NAME_NOT_FOUND.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/ERROR_NAME_NOT_FOUND.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/ERROR_NAME_NOT_FOUND.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/ERROR_NAME_NOT_FOUND.png"
         },
         "84_page": {
             "path": "/dimension/undefined.html",
@@ -762,8 +762,8 @@
             "description": "",
             "color": "#851400",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/undefined.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/undefined.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/undefined.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/undefined.png"
         },
         "85_page": {
             "path": "/dimension/Kedrawland.html",
@@ -771,8 +771,8 @@
             "description": "",
             "color": "#f0f0f0",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kedrawland.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Kedrawland.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Kedrawland.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Kedrawland.png"
         },
         "86_page": {
             "path": "/dimension/Kyujūgogēmu.html",
@@ -780,8 +780,8 @@
             "description": "",
             "color": "#753300",
             "type": "Dimension",
-            "icon": "http://baka-wiki.rf.gd/img/icons/dimension/Kyujūgogēmu.png",
-            "img": "http://baka-wiki.rf.gd/img/dimension/Kyujūgogēmu.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Kyujūgogēmu.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Kyujūgogēmu.png"
         },
         "87_page": {
             "path": "/region/Yukidami.html",
@@ -789,8 +789,8 @@
             "description": "",
             "color": "#f5f5f5",
             "type": "Région",
-            "icon": "http://baka-wiki.rf.gd/img/icons/region/Yukidami.png",
-            "img": "http://baka-wiki.rf.gd/img/region/Yukidami.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Yukidami.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Yukidami.png"
         },
         "88_page": {
             "path": "/character/Kedrawifa.html",
@@ -798,8 +798,8 @@
             "description": "",
             "color": "#fafafa",
             "type": "Personnage",
-            "icon": "http://baka-wiki.rf.gd/img/icons/character/Kedrawifa.png",
-            "img": "http://baka-wiki.rf.gd/img/character/Kedrawifa.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kedrawifa.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kedrawifa.png"
         }
     },
     "numberOfPages": "89"
