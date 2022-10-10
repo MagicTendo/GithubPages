@@ -2,24 +2,24 @@
     "leaderboards": {
         "shutanopikuseru": {
             "first": {
-                "points": "1020",
-                "username": "BakaTaida",
-                "proof": "http://yunranohi.rf.gd/Yunranodatasnoarchive/Proofs/Shutanopikuseru/BakaTaida.png"
+                "points": "1060",
+                "username": "CoolMan",
+                "proof": "http://yunranohi.rf.gd/api/shutanopikuseru/CoolMan.png"
             },
             "second": {
-                "points": "880",
-                "username": "Leo Le Pik",
-                "proof": "http://yunranohi.rf.gd/Yunranodatasnoarchive/Proofs/Shutanopikuseru/LeoLePik.png"
+                "points": "1020",
+                "username": "BakaTaida",
+                "proof": "http://yunranohi.rf.gd/api/shutanopikuseru/BakaTaida.png"
             },
             "third": {
-                "points": "140",
-                "username": "Liam",
-                "proof": "http://yunranohi.rf.gd/Yunranodatasnoarchive/Proofs/Shutanopikuseru/Liam.png"
+                "points": "880",
+                "username": "Leo Le Pik",
+                "proof": "http://yunranohi.rf.gd/api/shutanopikuseru/LeoLePik.png"
             },
             "fourth": {
-                "points": "???",
-                "username": "???",
-                "proof": ""
+                "points": "140",
+                "username": "Liam",
+                "proof": "http://yunranohi.rf.gd/api/shutanopikuseru/Liam.png"
             },
             "fifth": {
                 "points": "???",
