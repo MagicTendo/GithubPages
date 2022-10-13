@@ -118,13 +118,13 @@
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Chinaisayo.png"
         },
         "13_page": {
-            "path": "/dimension/Darukyn.html",
+            "path": "/dimension/DarukynMansion.html",
             "name": "Darukyn Mansion",
             "description": "",
             "color": "#5612b0",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Darukyn.png",
-            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Darukyn.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/DarukynMansion.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/DarukynMansion.png"
         },
         "14_page": {
             "path": "/dimension/Ichinichirin.html",
