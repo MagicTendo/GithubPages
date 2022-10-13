@@ -550,13 +550,13 @@
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Suyataru.png"
         },
         "61_page": {
-            "path": "/character/Ariantaten.html",
-            "name": "Ariantaten",
+            "path": "/character/Arientaten.html",
+            "name": "Arientaten",
             "description": "",
             "color": "#11ba41",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ariantaten.png",
-            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ariantaten.png"
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Arientaten.png",
+            "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Arientaten.png"
         },
         "62_page": {
             "path": "/character/Awabuburu.html",
