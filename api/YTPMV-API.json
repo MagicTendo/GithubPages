@@ -722,32 +722,32 @@
             "music_link": "https://www.youtube.com/watch?v=kuNixp-wvWM"
         },
         "86_music": {
-            "source": "We Are Number One (Lazy Town)",
-            "source_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
+            "music": "We Are Number One (Lazy Town)",
+            "music_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
         },
         "87_music": {
-            "source": "Porky's Porkies (Mother 3)",
-            "source_link": "https://www.youtube.com/watch?v=NoTot_F51XA"
+            "music": "Porky's Porkies (Mother 3)",
+            "music_link": "https://www.youtube.com/watch?v=NoTot_F51XA"
         },
         "88_music": {
-            "source": "Gang-Plank Galleon (Donkey Kong Country)",
-            "source_link": "https://www.youtube.com/watch?v=r5aeisPAzM4"
+            "music": "Gang-Plank Galleon (Donkey Kong Country)",
+            "music_link": "https://www.youtube.com/watch?v=r5aeisPAzM4"
         },
         "89_music": {
-            "source": "We Are Number One (Lazy Town)",
-            "source_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
+            "music": "We Are Number One (Lazy Town)",
+            "music_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
         },
         "90_music": {
-            "source": "Bomb-omb Battlefield (Super Mario 64)",
-            "source_link": "https://www.youtube.com/watch?v=bmP3UHXYi28"
+            "music": "Bomb-omb Battlefield (Super Mario 64)",
+            "music_link": "https://www.youtube.com/watch?v=bmP3UHXYi28"
         },
         "91_music": {
-            "source": "We Are Number One (Lazy Town)",
-            "source_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
+            "music": "We Are Number One (Lazy Town)",
+            "music_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw"
         },
         "92_music": {
-            "source": "Yona Yona Dance",
-            "source_link": "https://www.youtube.com/watch?v=zh-4M5blbiI"
+            "music": "Yona Yona Dance",
+            "music_link": "https://www.youtube.com/watch?v=zh-4M5blbiI"
         }
     },
     "total_sources": "74",
