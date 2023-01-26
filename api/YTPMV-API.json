@@ -374,6 +374,11 @@
             "source": "Ashley (from WarioWare)",
             "source_link": "https://www.youtube.com/watch?v=DAFhoaKtVFg",
             "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Ashley.png"
+        },
+        "74_source": {
+            "source": "Robotnik",
+            "source_link": "https://www.youtube.com/watch?v=QqxqaFT9xcM",
+            "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Robotnik.png"
         }
     },
     "ytpmv_musics": {
@@ -498,11 +503,11 @@
             "music_link": "https://www.youtube.com/watch?v=ANp0qch3XVM"
         },
         "30_music": {
-            "music": "PoPiPo (Hatsune Miku)",
+            "music": "PoPiPo (ぽっぴっぽ)",
             "music_link": "https://www.youtube.com/watch?v=mco3UX9SqDA"
         },
         "31_music": {
-            "music": "Levan Polka (Hatsune Miku)",
+            "music": "Ievan Polkka (Hatsune Miku)",
             "music_link": "https://www.youtube.com/watch?v=widZEAJc0QM"
         },
         "32_music": {
@@ -574,7 +579,7 @@
             "music_link": "https://www.youtube.com/watch?v=NmCCQxVBfyM"
         },
         "49_music": {
-            "music": "Viva Happy (Hatsune Miku)",
+            "music": "Viva Happy (ビバハピ)",
             "music_link": "https://www.youtube.com/watch?v=WiUjG9fF3zw"
         },
         "50_music": {
@@ -748,8 +753,36 @@
         "92_music": {
             "music": "Yona Yona Dance",
             "music_link": "https://www.youtube.com/watch?v=zh-4M5blbiI"
+        },
+        "93_music": {
+            "music": "What Do You Mean?! (どういうことなの！？)",
+            "music_link": "https://www.youtube.com/watch?v=sbptRUyK8Rc"
+        },
+        "94_music": {
+            "music": "忌憚騒命曲 ～ Demon tale sonata",
+            "music_link": "https://www.youtube.com/watch?v=QLv9KP2jpXo"
+        },
+        "95_music": {
+            "music": "This is Sparta!",
+            "music_link": "https://www.youtube.com/watch?v=rvYZRskNV3w"
+        },
+        "96_music": {
+            "music": "Cucumber Quest: Noisemaster's Theme",
+            "music_link": "https://www.youtube.com/watch?v=kwZFHzFAFj0"
+        },
+        "97_music": {
+            "music": "Lynne ~ Red-Headed Target | Ghost Trick",
+            "music_link": "https://www.youtube.com/watch?v=S8lRfhZuGps"
+        },
+        "98_music": {
+            "music": "P-model - lab=01",
+            "music_link": "https://www.youtube.com/watch?v=UjWI6RnT6f0"
+        },
+        "99_music": {
+            "music": "Crypt of the NecroDancer - Konga Conga Kappa (King Conga)",
+            "music_link": "https://www.youtube.com/watch?v=WUAq7-YpO0w"
         }
     },
-    "total_sources": "74",
-    "total_musics": "93"
+    "total_sources": "75",
+    "total_musics": "100"
 }
