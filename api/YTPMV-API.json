@@ -379,6 +379,11 @@
             "source": "Robotnik",
             "source_link": "https://www.youtube.com/watch?v=QqxqaFT9xcM",
             "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Robotnik.png"
+        },
+        "75_source": {
+            "source": "Spandau Ballet - True",
+            "source_link": "https://www.youtube.com/watch?v=F2T99YbxwWA",
+            "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Spandau-Ballet.png"
         }
     },
     "ytpmv_musics": {
@@ -781,8 +786,12 @@
         "99_music": {
             "music": "Crypt of the NecroDancer - Konga Conga Kappa (King Conga)",
             "music_link": "https://www.youtube.com/watch?v=WUAq7-YpO0w"
+        },
+        "100_music": {
+            "music": "Perfume「チョコレイト・ディスコ」",
+            "music_link": "https://www.youtube.com/watch?v=1WTy2yqKI4w"
         }
     },
-    "total_sources": "75",
-    "total_musics": "100"
+    "total_sources": "76",
+    "total_musics": "101"
 }
