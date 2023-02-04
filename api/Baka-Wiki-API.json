@@ -1,7 +1,6 @@
 {
     "_credit_fr": "Baka Wiki - API créé par BakaTaida / https://magictendo.github.io/GithubPages/api/Baka-Wiki-API.json",
     "_credit_en": "Baka Wiki - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/Baka-Wiki-API.json",
-
     "pages": {
         "0_page": {
             "path": "/character/Hinosako.html",
@@ -9,7 +8,7 @@
             "description": "",
             "color": "#820707",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Hinosako.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Hinosako.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Hinosako.png"
         },
         "1_page": {
@@ -18,7 +17,7 @@
             "description": "",
             "color": "#1fa10b",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kasenzan.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kasenzan.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kasenzan.png"
         },
         "2_page": {
@@ -27,7 +26,7 @@
             "description": "",
             "color": "#8f8f8f",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ekazenaya.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Ekazenaya.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ekazenaya.png"
         },
         "3_page": {
@@ -36,7 +35,7 @@
             "description": "",
             "color": "#a14600",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ketsudan.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Ketsudan.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ketsudan.png"
         },
         "4_page": {
@@ -45,7 +44,7 @@
             "description": "",
             "color": "#480075",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōseiden.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kōseiden.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōseiden.png"
         },
         "5_page": {
@@ -54,7 +53,7 @@
             "description": "",
             "color": "#000552",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Reishikida.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Reishikida.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Reishikida.png"
         },
         "6_page": {
@@ -63,7 +62,7 @@
             "description": "",
             "color": "#0063a1",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/BakaTaida.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/BakaTaida.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/BakaTaida.png"
         },
         "7_page": {
@@ -72,7 +71,7 @@
             "description": "",
             "color": "#0e438a",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Sayetsuri.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Sayetsuri.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Sayetsuri.png"
         },
         "8_page": {
@@ -81,7 +80,7 @@
             "description": "",
             "color": "#34b4eb",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/YasuGamesUp.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/YasuGamesUp.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/YasuGamesUp.png"
         },
         "9_page": {
@@ -90,7 +89,7 @@
             "description": "",
             "color": "#ffff00",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/ModPhoenixSC.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/ModPhoenixSC.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/ModPhoenixSC.png"
         },
         "10_page": {
@@ -99,7 +98,7 @@
             "description": "",
             "color": "#9a17cf",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Japuirulando.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Japuirulando.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Japuirulando.png"
         },
         "11_page": {
@@ -108,7 +107,7 @@
             "description": "",
             "color": "#17c22e",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Earthland.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Earthland.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Earthland.png"
         },
         "12_page": {
@@ -117,7 +116,7 @@
             "description": "",
             "color": "#b0004c",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Nomoneru.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Nomoneru.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Nomoneru.png"
         },
         "13_page": {
@@ -126,7 +125,7 @@
             "description": "",
             "color": "#2594cc",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Yunranoland.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Yunranoland.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Yunranoland.png"
         },
         "14_page": {
@@ -135,7 +134,7 @@
             "description": "",
             "color": "#737373",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Archotalan.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Archotalan.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Archotalan.png"
         },
         "15_page": {
@@ -144,7 +143,7 @@
             "description": "",
             "color": "#441b57",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Chimauchū.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Chimauchū.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Chimauchū.png"
         },
         "16_page": {
@@ -153,7 +152,7 @@
             "description": "",
             "color": "#bf22c7",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Iryūjon.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Iryūjon.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Iryūjon.png"
         },
         "17_page": {
@@ -162,7 +161,7 @@
             "description": "",
             "color": "#e7eb10",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Myūjikku.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Myūjikku.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Myūjikku.png"
         },
         "18_page": {
@@ -171,7 +170,7 @@
             "description": "",
             "color": "#1f0766",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Reidaihōsun.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Reidaihōsun.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Reidaihōsun.png"
         },
         "19_page": {
@@ -180,7 +179,7 @@
             "description": "",
             "color": "#c7620a",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Taimūtaimū.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Taimūtaimū.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Taimūtaimū.png"
         },
         "20_page": {
@@ -189,7 +188,7 @@
             "description": "",
             "color": "#002e4d",
             "type": "Créature",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/MijisenPet.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/creature/MijisenPet.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/MijisenPet.png"
         },
         "21_page": {
@@ -198,7 +197,7 @@
             "description": "",
             "color": "#d1d1d1",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Kitayorinokaze.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Kitayorinokaze.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Kitayorinokaze.png"
         },
         "22_page": {
@@ -207,7 +206,7 @@
             "description": "",
             "color": "#05b517",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Tennenrin.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Tennenrin.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Tennenrin.png"
         },
         "23_page": {
@@ -216,7 +215,7 @@
             "description": "",
             "color": "#9e0808",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Yōgandaichi.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Yōgandaichi.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Yōgandaichi.png"
         },
         "24_page": {
@@ -225,7 +224,7 @@
             "description": "",
             "color": "#1adff6",
             "type": "Créature",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/BlueCube.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/creature/BlueCube.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/BlueCube.png"
         },
         "25_page": {
@@ -234,7 +233,7 @@
             "description": "",
             "color": "#c8ffff",
             "type": "Créature",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/creature/Spirit.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/creature/Spirit.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/creature/Spirit.png"
         },
         "26_page": {
@@ -243,7 +242,7 @@
             "description": "",
             "color": "#162657",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Mijisen.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Mijisen.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Mijisen.png"
         },
         "27_page": {
@@ -252,7 +251,7 @@
             "description": "",
             "color": "#800b6c",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Neramawa.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Neramawa.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Neramawa.png"
         },
         "28_page": {
@@ -261,7 +260,7 @@
             "description": "",
             "color": "#570649",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Nerumono.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Nerumono.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Nerumono.png"
         },
         "29_page": {
@@ -270,7 +269,7 @@
             "description": "",
             "color": "#618eb0",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Suyataru.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Suyataru.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Suyataru.png"
         },
         "30_page": {
@@ -279,7 +278,7 @@
             "description": "",
             "color": "#94fdff",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Awabuburu.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Awabuburu.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Awabuburu.png"
         },
         "31_page": {
@@ -288,7 +287,7 @@
             "description": "",
             "color": "#25153d",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Obusidyawa.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Obusidyawa.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Obusidyawa.png"
         },
         "32_page": {
@@ -297,7 +296,7 @@
             "description": "",
             "color": "#107312",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Utenekueyarerikakishichisorowonmayusutsurayowaharunitahiminufutonōkoiasanamukesehememoho.png"
         },
         "33_page": {
@@ -306,7 +305,7 @@
             "description": "",
             "color": "#0069d1",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/Yunranohi.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/Yunranohi.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/Yunranohi.png"
         },
         "34_page": {
@@ -315,7 +314,7 @@
             "description": "",
             "color": "#990808",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/MagiruTendoruVibing.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/MagiruTendoruVibing.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/MagiruTendoruVibing.png"
         },
         "35_page": {
@@ -324,7 +323,7 @@
             "description": "",
             "color": "#2727a3",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/MusicBattleTournament.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/MusicBattleTournament.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/MusicBattleTournament.png"
         },
         "36_page": {
@@ -333,7 +332,7 @@
             "description": "",
             "color": "#8a8a8a",
             "type": "Archive",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/archive/SomeRandomMedley.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/archive/SomeRandomMedley.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/archive/SomeRandomMedley.png"
         },
         "37_page": {
@@ -342,7 +341,7 @@
             "description": "",
             "color": "#bf0202",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Ayabentu.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Ayabentu.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Ayabentu.png"
         },
         "38_page": {
@@ -351,7 +350,7 @@
             "description": "",
             "color": "#12238c",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kōrufuyuki.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kōrufuyuki.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kōrufuyuki.png"
         },
         "39_page": {
@@ -360,7 +359,7 @@
             "description": "",
             "color": "#000000",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kuraisoki.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kuraisoki.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kuraisoki.png"
         },
         "40_page": {
@@ -369,7 +368,7 @@
             "description": "",
             "color": "#522a00",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kyujūgopiku.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kyujūgopiku.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kyujūgopiku.png"
         },
         "41_page": {
@@ -378,7 +377,7 @@
             "description": "",
             "color": "#fff000",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Myūjadena.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Myūjadena.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Myūjadena.png"
         },
         "42_page": {
@@ -387,7 +386,7 @@
             "description": "",
             "color": "#ebebeb",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Tereya.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Tereya.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Tereya.png"
         },
         "43_page": {
@@ -396,7 +395,7 @@
             "description": "",
             "color": "#ff6600",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Tokinotsuki.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Tokinotsuki.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Tokinotsuki.png"
         },
         "44_page": {
@@ -405,7 +404,7 @@
             "description": "",
             "color": "#022e00",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/ERROR_NAME_NOT_FOUND.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/ERROR_NAME_NOT_FOUND.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/ERROR_NAME_NOT_FOUND.png"
         },
         "45_page": {
@@ -414,7 +413,7 @@
             "description": "",
             "color": "#851400",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/undefined.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/undefined.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/undefined.png"
         },
         "46_page": {
@@ -423,7 +422,7 @@
             "description": "",
             "color": "#f0f0f0",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Kedrawland.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Kedrawland.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Kedrawland.png"
         },
         "47_page": {
@@ -432,7 +431,7 @@
             "description": "",
             "color": "#753300",
             "type": "Dimension",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/dimension/Kyujūgogēmu.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/dimension/Kyujūgogēmu.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/dimension/Kyujūgogēmu.png"
         },
         "48_page": {
@@ -441,7 +440,7 @@
             "description": "",
             "color": "#f5f5f5",
             "type": "Région",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/region/Yukidami.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/region/Yukidami.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/region/Yukidami.png"
         },
         "49_page": {
@@ -450,7 +449,7 @@
             "description": "",
             "color": "#fafafa",
             "type": "Personnage",
-            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icons/character/Kedrawifa.png",
+            "icon": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/icon/character/Kedrawifa.png",
             "img": "https://magictendo.github.io/GithubPages/api/Baka-Wiki-API-IMG/character/Kedrawifa.png"
         }
     },
