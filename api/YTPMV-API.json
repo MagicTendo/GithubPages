@@ -389,6 +389,11 @@
             "source": "Athena P",
             "source_link": "https://www.youtube.com/watch?v=p7mt9ROJh1c",
             "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Athena-P.png"
+        },
+        "77_source": {
+            "source": "Alex Jones",
+            "source_link": "https://www.youtube.com/watch?v=3tVrntKgdN0",
+            "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Alex-Jones.png"
         }
     },
     "ytpmv_musics": {
@@ -807,8 +812,16 @@
         "103_music": {
             "music": "新宝島 - サカナクション",
             "music_link": "https://www.youtube.com/watch?v=LIlZCmETvsY"
+        },
+        "104_music": {
+            "music": "【GUMI】QUEEN【Kanaria】",
+            "music_link": "https://www.youtube.com/watch?v=KFCaSz_yYCM"
+        },
+        "105_music": {
+            "music": "Triple Baka",
+            "music_link": "https://www.youtube.com/watch?v=duPJqfKiA78"
         }
     },
-    "total_sources": "77",
-    "total_musics": "104"
+    "total_sources": "78",
+    "total_musics": "106"
 }
