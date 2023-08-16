@@ -3,6 +3,17 @@ Header add Access-Control-Allow-Origin "*"
 Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
 Header add Access-Control-Allow-Methods "PUT, GET, OPTIONS"
 
+AddType application/xml .xml
+AddType application/xml;charset=utf-8 .xml
+
+<Files "sitemap.xml">
+    ForceType application/xml
+</Files>
+
+<FilesMatch "\.xml$">
+    Header set Content-Type "application/xml"
+</FilesMatch>
+
 DirectoryIndex index.html
 
 ErrorDocument 400 https://magictendo.github.io/GithubPages
@@ -11,3 +22,5 @@ ErrorDocument 403 https://magictendo.github.io/GithubPages
 ErrorDocument 404 https://magictendo.github.io/GithubPages
 ErrorDocument 500 https://magictendo.github.io/GithubPages
 ErrorDocument 503 https://magictendo.github.io/GithubPages
+
+Options -Indexes
