@@ -1,7 +1,7 @@
 {
-    "_comment_fr": "Si il y a une erreur ou une musique / source que vous voulez que j'ajoute, dit le moi sur Discord ! (BakaTaida#5677)",
-    "_comment_en": "If there is any mistake(s) or a song / source you want me to add, say it to me on Discord ! (BakaTaida#5677)",
-    "_credit_fr": "YTPMV - API  créer par BakaTaida / https://magictendo.github.io/GithubPages/api/YTPMV-API.json",
+    "_comment_fr": "S'il y a une erreur ou une musique / source que vous voulez que j'ajoute, dite le moi sur Discord ! (BakaTaida#5677 | @bakataida)",
+    "_comment_en": "If there is any mistake(s) or a song / source you want me to add, say it to me on Discord ! (BakaTaida#5677 | @bakataida)",
+    "_credit_fr": "YTPMV - API  créé par BakaTaida / https://magictendo.github.io/GithubPages/api/YTPMV-API.json",
     "_credit_en": "YTPMV - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/YTPMV-API.json",
     "ytpmv_sources": {
         "0_source": {
@@ -230,9 +230,9 @@
             "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/VTubers.png"
         },
         "45_source": {
-            "source": "SGI",
+            "source": "Airmoto",
             "source_link": "https://www.nicovideo.jp/watch/sm38071622",
-            "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/SGI.png"
+            "source_image": "https://magictendo.github.io/GithubPages/api/YTPMV-API-IMG/Airmoto.png"
         },
         "46_source": {
             "source": "Christmas in July (HH Gregg)",
@@ -714,7 +714,7 @@
             "music_link": "https://www.youtube.com/watch?v=ULkJmqVhgtU"
         },
         "79_music": {
-            "music": "ラグトレイン",
+            "music": "稲葉曇『ラグトレイン』",
             "music_link": "https://www.youtube.com/watch?v=UnIhRpIT7nc"
         },
         "80_music": {
@@ -726,7 +726,7 @@
             "music_link": "https://www.youtube.com/watch?v=mM4NskrRk4A"
         },
         "82_music": {
-            "music": "神っぽいな / God-ish",
+            "music": "ピノキオピー - 神っぽいな",
             "music_link": "https://www.youtube.com/watch?v=EHBFKhLUVig"
         },
         "83_music": {
@@ -747,7 +747,7 @@
         },
         "87_music": {
             "music": "Porky's Porkies (Mother 3)",
-            "music_link": "https://www.youtube.com/watch?v=NoTot_F51XA"
+            "music_link": "https://www.youtube.com/watch?v=vT0hIUCmtjA"
         },
         "88_music": {
             "music": "Gang-Plank Galleon (Donkey Kong Country)",
@@ -820,8 +820,36 @@
         "105_music": {
             "music": "Triple Baka",
             "music_link": "https://www.youtube.com/watch?v=duPJqfKiA78"
+        },
+        "106_music": {
+            "music": "Skeleton Boomerang - Disco Necropolis",
+            "music_link": "https://www.youtube.com/watch?v=cunKMWkE1yI"
+        },
+        "107_music": {
+            "music": "Elwood - Fall from sky",
+            "music_link": "https://www.youtube.com/watch?v=lUdbm-fdUEM"
+        },
+        "108_music": {
+            "music": "Ghost Trick - Lynne ~A Targeted Redhead",
+            "music_link": "https://www.youtube.com/watch?v=xkQuX8KyFcU"
+        },
+        "109_music": {
+            "music": "ダーリンダンス／かいりきベア",
+            "music_link": "https://www.youtube.com/watch?v=Rkrm5foi188"
+        },
+        "110_music": {
+            "music": "Kirby's Return to Dream Land | Oasis Area",
+            "music_link": "https://www.youtube.com/watch?v=LwPnX8HDtZ4"
+        },
+        "111_music": {
+            "music": "Yukopi - 強風オールバック",
+            "music_link": "https://www.youtube.com/watch?v=D6DVTLvOupE"
+        },
+        "112_music": {
+            "music": "KAKU P-MODEL - Big Brother",
+            "music_link": "https://www.youtube.com/watch?v=hOrTU2NNDVQ"
         }
     },
     "total_sources": "78",
-    "total_musics": "106"
+    "total_musics": "113"
 }
