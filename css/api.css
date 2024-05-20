@@ -22,6 +22,11 @@ img {
     -ms-transition-timing-function: ease-out;
 }
 
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
 .linksContainer {
     min-width: 200px;
     max-width: 900px;
@@ -54,11 +59,6 @@ img {
 .linksContainer p::before {
     display: inline-block;
     text-align: right;
-}
-
-iframe {
-    display: block;
-    margin: 0 auto;
 }
 
 .title {
@@ -168,9 +168,23 @@ iframe {
 
 .pages,
 .images {
-    margin: 0 auto;
     margin-bottom: 30px;
-    text-align: center;
+    margin-inline: 2vw;    
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pageImg,
+.sourceImg {
+    min-width: 100px;
+    width: 10vw;
+    display: block;
+    border-radius: 5px;
+}
+
+.musics > * {
+    flex: 1;
 }
 
 .musics {

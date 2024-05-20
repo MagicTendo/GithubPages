@@ -21,7 +21,7 @@ const infosToCompleteTwo = document.getElementsByClassName("infosToCompleteTwo")
 
 images.style.display = "none";
 
-fetch("../api/yunranohi.json").then(response => response.json()).then(
+fetch("./api/yunranohi.json").then(response => response.json()).then(
     data => {
         nameOne.innerHTML = data.leaderboards.shutanopikuseru.first.username;
         nameTwo.innerHTML = data.leaderboards.shutanopikuseru.second.username;
@@ -47,9 +47,9 @@ function imageExists(image_url) {
 
 function bakaWikiLoad(button) {
     button.style.display = "none";
-    pages.style.display = "block";
+    pages.style.display = "flex";
 
-    fetch("../api/baka-wiki.json").then(response => response.json()).then(
+    fetch("./api/baka-wiki.json").then(response => response.json()).then(
         data => {
             infosToCompleteOne.innerHTML =
                 ` > Information: Contains all ${data.numberOfPages} pages of the Baka Wiki`;
@@ -85,9 +85,9 @@ function bakaWikiLoad(button) {
 function ytpmvLoad(button) {
     button.style.display = "none";
     temporaryText.style.display = "none";
-    images.style.display = "block";
+    images.style.display = "flex";
 
-    fetch("../api/ytpmv.json").then(response => response.json()).then(
+    fetch("./api/ytpmv.json").then(response => response.json()).then(
         data => {
             const totalSources = data.total_sources;
             const totalMusics = data.total_musics;

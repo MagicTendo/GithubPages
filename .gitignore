@@ -1,3 +1,5 @@
 desktop.ini
+.gitignore
+_/
 .tmp.driveupload/
-.tmp.drivedownload/
+.tmp.drivedownload/c
