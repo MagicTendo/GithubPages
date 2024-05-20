@@ -1,0 +1,240 @@
+a {
+    text-decoration: none;
+}
+
+img {
+    transition-property: rotate;
+    -o-transition-property: rotate;
+    -moz-transition-property: rotate;
+    -webkit-transition-property: rotate;
+    -ms-transition-property: rotate;
+
+    transition-duration: 0.3s;
+    -o-transition-dur-webkit-transition-duration: 0.3s;
+    -moz-transition-dur-webkit-transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+
+    transition-timing-function: ease-out;
+    -o-transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-out;
+    -webkit-transition-timing-function: ease-out;
+    -ms-transition-timing-function: ease-out;
+}
+
+.linksContainer {
+    min-width: 200px;
+    max-width: 900px;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    background-color: #00637c;
+    border: #005165 4px solid;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.linksContainer p {
+    margin: 0;
+    font-size: var(--clamp-font-size-12-15);
+}
+
+.linksContainer p:nth-of-type(odd) {
+    padding: 5px;
+    padding-inline: 10px;
+    background-color: #00637c;
+}
+
+.linksContainer p:nth-of-type(even) {
+    padding: 5px;
+    padding-inline: 10px;
+    background-color: #004557;
+}
+
+.linksContainer p::before {
+    display: inline-block;
+    text-align: right;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: var(--clamp-font-size-17-32);
+}
+
+.subtitle,
+.tempTextThree {
+    text-align: center;
+}
+
+.subtitle {
+    margin-top: 10px;
+    font-size: var(--clamp-font-size-18-24);
+}
+
+.category,
+.example,
+.temporaryText {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: var(--clamp-font-size-18-24);
+}
+
+.example {
+    text-decoration: underline;
+}
+
+.temporaryText {
+    font-weight: 500;
+}
+
+.button {
+    width: fit-content;
+    padding: var(--clamp-width-10-20);
+    margin: 0 auto;
+    margin-bottom: 75px;
+    display: block;
+    color: #ffffff;
+    background-color: #005475;
+    border: none;
+    border-radius: 10px;
+    font-size: var(--clamp-font-size-13-16);
+    cursor: pointer;
+}
+
+.button:active {
+    scale: 0.5;
+}
+
+.logo {
+    width: var(--clamp-width-300-450);
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.leaderboard {
+    width: max-content;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
+
+.player {
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: block;
+    color: #000000;
+    background-color: #0c8dc0;
+    border: #0000007a double 5px;
+    border-radius: 15px;
+}
+
+.player:nth-child(1) {
+    background-color: #ffd700;
+}
+
+.player:nth-child(2) {
+    background-color: #d3d3d3;
+}
+
+.player:nth-child(3) {
+    background-color: #e99949;
+}
+
+.name,
+.points {
+    display: inline;
+    line-height: 38px;
+    float: left;
+}
+
+.points {
+    float: right;
+}
+
+.pages,
+.images {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.musics {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form {
+    width: var(--clamp-width-320-640);
+    height: var(--clamp-width-1000-800);
+}
+
+.license {
+    margin: 0;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: var(--clamp-font-size-14-19);
+    font-weight: 600;
+}
+
+.license a {
+    text-decoration: underline;
+}
+
+.licenseLink {
+    height: 42px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    display: block;
+    text-align: center;
+}
+
+.licenseLink .licenseImage {
+    width: 120px;
+    height: auto;
+    margin: 0;
+    image-rendering: optimizeQuality;
+}
+
+
+/* Computer only */
+
+@media (pointer: fine) {
+    img:hover {
+        rotate: 3deg;
+    }
+}
+
+
+/* Media queries */
+
+@media screen and (max-width: 650px) {
+    .linksContainer {
+        margin: 5px;
+    }
+
+    iframe {
+        width: 350px;
+    }
+
+    .player {
+        width: 250px;
+    }
+}

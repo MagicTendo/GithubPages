@@ -1,0 +1,112 @@
+body {
+    height: 100dvh;
+    position: relative;
+    background-color: #434343;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.container,
+.leaderboard {
+    margin: 0 auto;
+    margin-inline: 10px;
+    display: block;
+}
+
+.container {
+    text-align: center;
+}
+
+.leaderboard {
+    margin-top: 25px;
+}
+
+.title {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.text {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.pageName {
+    margin-block: 5px;
+    text-align: center;
+}
+
+.description {
+    margin-block: 5px;
+    text-align: justify;
+    text-align-last: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.path {
+    margin-block: 15px;
+    font-weight: 500;
+}
+
+.button {
+    width: fit-content;
+    padding: 15px;
+    margin: 0 auto;
+    position: absolute;
+    margin-top: 15px;
+    display: block;
+    color: #ffffff;
+    background-color: #ffffff40;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    bottom: 15dvh;
+    left: 0;
+    right: 0;
+}
+
+.button:active {
+    scale: 0.5;
+}
+
+.player {
+    width: 400px;
+    height: 40px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    display: block;
+    color: #000000;
+    background-color: #0c8dc0;
+    border: #0000007a double 5px;
+    border-radius: 15px;
+}
+
+.player:nth-child(1) {
+    background-color: #ffd700;
+}
+
+.player:nth-child(2) {
+    background-color: #d3d3d3;
+}
+
+.player:nth-child(3) {
+    background-color: #e99949;
+}
+
+.name,
+.points {
+    display: inline;
+    line-height: 38px;
+    float: left;
+}
+
+.points {
+    float: right;
+}

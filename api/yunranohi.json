@@ -1,0 +1,34 @@
+{
+    "_credit_fr": "Yunranohi - API créée par BakaTaida / https://magictendo.github.io/GithubPages/api/Yunranohi-API.json",
+    "_credit_en": "Yunranohi - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/Yunranohi-API.json",
+    "leaderboards": {
+        "shutanopikuseru": {
+            "game_logo": "https://magictendo.github.io/GithubPages/img/api/yunranohi/shutanopikuseru-logo.png",
+            "first": {
+                "points": "1060",
+                "username": "CoolMan",
+                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/coolman.png"
+            },
+            "second": {
+                "points": "1020",
+                "username": "BakaTaida",
+                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/bakataida.png"
+            },
+            "third": {
+                "points": "880",
+                "username": "Leo Le Pik",
+                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/leo-le-pik.png"
+            },
+            "fourth": {
+                "points": "140",
+                "username": "Liam",
+                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/liam.png"
+            },
+            "fifth": {
+                "points": "60",
+                "username": "Raphaël",
+                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/raphael.png"
+            }
+        }
+    }
+}
