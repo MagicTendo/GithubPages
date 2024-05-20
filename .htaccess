@@ -3,8 +3,8 @@ Options -Indexes
 Accept-Encoding: gzip, compress, br
 Cache-Control: max-age=31536000l
 
-ErrorDocument 403 https://bakataida.rf.gd/error/403.html
-ErrorDocument 404 https://bakataida.rf.gd/error/404.html
+ErrorDocument 403 https://magictendo.github.io/GithubPages/
+ErrorDocument 404 https://magictendo.github.io/GithubPages/
 
 RewriteEngine On
 

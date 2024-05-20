@@ -226,12 +226,16 @@ iframe {
 /* Media queries */
 
 @media screen and (max-width: 650px) {
+    iframe {
+        width: 350px;
+    }
+
     .linksContainer {
         margin: 5px;
     }
 
-    iframe {
-        width: 350px;
+    .linksContainer p {
+        word-wrap: break-word;
     }
 
     .player {

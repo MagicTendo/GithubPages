@@ -1,6 +1,6 @@
 function generateYTPMVIdea() {
-    const sourceOutpout = document.getElementsByClassName("source-outpout")[0];
-    const musicOutpout = document.getElementsByClassName("music-outpout")[0];
+    const sourceOutpout = document.getElementsByClassName("sourceOutpout")[0];
+    const musicOutpout = document.getElementsByClassName("musicOutpout")[0];
 
 
     fetch("../api/ytpmv.json").then(function (response) {
