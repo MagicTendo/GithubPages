@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 //if it's still doesn't work, replace the first line with this:
 //const fetch = (url) => import('node-fetch').then(({default: fetch}) => fetch(url));
 
-fetch("https://magictendo.github.io/GithubPages/api/Yunranohi-API.json").then(function (response) {
+fetch("https://magictendo.github.io/GithubPages/api/yunranohi.json").then(function (response) {
     return response.json();
 }).then(function (data) {
     nameOne = data.leaderboards.shutanopikuseru.first.username;
