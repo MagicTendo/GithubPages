@@ -183,13 +183,13 @@ iframe {
     border-radius: 5px;
 }
 
-.musics > * {
-    flex: 1;
-}
-
 .musics {
     display: flex;
     flex-wrap: wrap;
+}
+
+.musics > * {
+    flex: 1 1 33%;
 }
 
 .form {
