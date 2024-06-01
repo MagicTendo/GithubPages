@@ -5,6 +5,7 @@ Cache-Control: max-age=31536000l
 
 ErrorDocument 403 https://magictendo.github.io/GithubPages/
 ErrorDocument 404 https://magictendo.github.io/GithubPages/
+ErrorDocument 500 https://magictendo.github.io/GithubPages/
 
 RewriteEngine On
 
@@ -20,4 +21,4 @@ RewriteRule (^|/)index\.(php|html)$ /%1 [NC,R=301,L]
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^ %{REQUEST_URI}.html [NC,L]
 
-DirectoryIndex index.html
+DirectoryIndex index
