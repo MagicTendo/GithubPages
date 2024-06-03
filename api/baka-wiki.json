@@ -211,15 +211,6 @@
         },
         "23": {
             "type": "Dimension",
-            "name": "Earthland",
-            "description": "Earthland désigne la dimension dans laquelle il y a une planète sous le nom de Terre en français, ou d'Earth en anglais. Elle est la troisième planète de son système solaire.",
-            "color": "#00de73",
-            "path": "/dimension/Earthland.html",
-            "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/dimension/earthland.png",
-            "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/dimension/earthland.png"
-        },
-        "24": {
-            "type": "Dimension",
             "name": "undefined",
             "description": "Description not found, the data may have been deleted or corrupted.",
             "color": "#850d00",
@@ -227,7 +218,7 @@
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/dimension/undefined.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/dimension/undefined.png"
         },
-        "25": {
+        "24": {
             "type": "Dimension",
             "name": "Yunranoland",
             "description": "Yunranoland est la dimension principale où se déroule l'histoire de Yunranohi. Son passé n'a pas été trop étudié pour le moment.",
@@ -236,7 +227,7 @@
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/dimension/yunranoland.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/dimension/yunranoland.png"
         },
-        "26": {
+        "25": {
             "type": "Region",
             "name": "Yukidami",
             "description": "Yukidami est l'une des 10 régions de Yunranoland. Elle est dirigée par Kōrufuyuki, et c'est la deuxième plus grande si on ne prend pas en compte Chimauchū.",
@@ -245,7 +236,7 @@
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/region/yukidami.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/region/yukidami.png"
         },
-        "27": {
+        "26": {
             "type": "Region",
             "name": "Yōgandaichi",
             "description": "Yōgandaichi est l'une des 10 régions de Yunranoland. Elle est dirigée par Hinosako, et c'est la troisième plus grande si on ne prend pas en compte Chimauchū.",
@@ -255,5 +246,5 @@
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/region/yogandaichi.png"
         }
     },
-    "numberOfPages": "28"
+    "numberOfPages": "27"
 }
