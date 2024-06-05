@@ -7,7 +7,7 @@
             "name": "MagiruTendoru Vibing",
             "description": "MagiruTendoru Vibing est, à la base, une vidéo inspirée du meme Padoru mais version MagicTendo qui \"s'ambiance\" sur une musique.",
             "color": "#d10606",
-            "path": "/archive/magirutendoru-vibing.html",
+            "path": "/archive/magirutendoru-vibing",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/archive/magirutendoru-vibing.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/archive/magirutendoru-vibing.png"
         },
@@ -16,7 +16,7 @@
             "name": "Some Random Medley",
             "description": "Some Random Medley est une ancienne chaîne YouTube qui a été supprimée depuis et qui avait comme mascotte Nazrin, un personnage de la saga de Touhou.",
             "color": "#5c5c5c",
-            "path": "/archive/some-random-medley.html",
+            "path": "/archive/some-random-medley",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/archive/some-random-medley.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/archive/some-random-medley.png"
         },
@@ -25,7 +25,7 @@
             "name": "Yasu Games Up !",
             "description": "Yasu Games Up ! est un serveur Minecraft multi-jeux en 1.12.2, hébergé sur Aternos, et créé par CoolMan et BakaTaida qui n'a jamais été ouvert au publique.",
             "color": "#3bbaff",
-            "path": "/archive/yasu-games-up.html",
+            "path": "/archive/yasu-games-up",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/archive/yasu-games-up.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/archive/yasu-games-up.png"
         },
@@ -34,7 +34,7 @@
             "name": "Ayabentu",
             "description": "Ayabentu est un apprenti cuisinier qui n'a pas encore de vrai restaurant. Il cuisine dans une sorte de petit stand en carton avec le mot \"COOK\" écrit de dessus.",
             "color": "#d19d00",
-            "path": "/character/ayabentu.html",
+            "path": "/character/ayabentu",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/ayabentu.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/ayabentu.png"
         },
@@ -43,7 +43,7 @@
             "name": "BakaTaida",
             "description": "BakaTaida est le fondateur du projet Yunranohi, qui a pour but de faire découvrir la dimension de Yunranoland, mais il est aussi le fondateur de la MagicTendo Teamᴹᵀ.",
             "color": "#0090e3",
-            "path": "/character/bakataida.html",
+            "path": "/character/bakataida",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/bakaTaida.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/bakaTaida.png"
         },
@@ -52,7 +52,7 @@
             "name": "Ekazenaya",
             "description": "Ekazenaya est la représentante du vent ainsi que du ciel, et dirige la région de Kitayorinokaze, où se trouve son grand entrepôt à aéronefs.",
             "color": "#8f8f8f",
-            "path": "/character/ekazenaya.html",
+            "path": "/character/ekazenaya",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/ekazenaya.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/ekazenaya.png"
         },
@@ -61,7 +61,7 @@
             "name": "Hinosako",
             "description": "Hinosako est le co-fondateur du Collectif Yunrano avec Kōrufuyuki, dans le but de faire régner la paix à Yunranoland.",
             "color": "#bf1111",
-            "path": "/character/hinosako.html",
+            "path": "/character/hinosako",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/hinosako.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/hinosako.png"
         },
@@ -70,7 +70,7 @@
             "name": "Kasenzan",
             "description": "Kasenzan est la représentante de la nature ainsi que de la biodiversité, et \"surveille\" la région de Tennenrin dont elle est la représentante.",
             "color": "#0d9e20",
-            "path": "/character/kasenzan.html",
+            "path": "/character/kasenzan",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/kasenzan.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/kasenzan.png"
         },
@@ -79,7 +79,7 @@
             "name": "Ketsudan",
             "description": "Ketsudan est la représentante de l'administratif ainsi que des enquêtes, elle s'occupe donc de tout le côté financier et bureaucratique des régions de Yunranoland.",
             "color": "#824a00",
-            "path": "/character/ketsudan.html",
+            "path": "/character/ketsudan",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/ketsudan.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/ketsudan.png"
         },
@@ -88,7 +88,7 @@
             "name": "Kōrufuyuki",
             "description": "Kōrufuyuki est la protagoniste principale de la license Yunranohi. Elle est la co-fondatrice du Collectif Yunrano avec Hinosako.",
             "color": "#001533",
-            "path": "/character/korufuyuki.html",
+            "path": "/character/korufuyuki",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/korufuyuki.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/korufuyuki.png"
         },
@@ -97,7 +97,7 @@
             "name": "Kōseiden",
             "description": "Kōseiden est la représentante de Chimauchū (équivalent de l'espace pour Earthland), et elle adore y passer ses journées.",
             "color": "#270033",
-            "path": "/character/koseiden.html",
+            "path": "/character/koseiden",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/koseiden.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/koseiden.png"
         },
@@ -106,7 +106,7 @@
             "name": "Kuraisoki",
             "description": "Kuraisoki est la représentante des quatre états de la matière, et reste beaucoup avec Sayetsuri ainsi qu'avec sa propre sœur, Tereya.",
             "color": "#030303",
-            "path": "/character/kuraisoki.html",
+            "path": "/character/kuraisoki",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/kuraisoki.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/kuraisoki.png"
         },
@@ -115,7 +115,7 @@
             "name": "Kyujūgopiku",
             "description": "Kyujūgopiku est l'une des membres du Collectif Arckotalique. Cependant, comme presque tous les autres membres, personne ne sait ce qu'elle est devenue.",
             "color": "#874400",
-            "path": "/character/kyujugopiku.html",
+            "path": "/character/kyujugopiku",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/kyujugopiku.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/kyujugopiku.png"
         },
@@ -124,7 +124,7 @@
             "name": "Myūjadena",
             "description": "Myūjadena est la représentante de la musique ainsi que du son, et dirige la ville de Myūjikku, qui est jumelée à Taimūtaimū, ville dirigée par son amie d'enfance Tokinotsuki.",
             "color": "#c9af00",
-            "path": "/character/myujadena.html",
+            "path": "/character/myujadena",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/myujadena.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/myujadena.png"
         },
@@ -133,7 +133,7 @@
             "name": "Neramawa",
             "description": "Neramawa fait partie du Collectif Nomoneru. Elle est la servante de Nerumono et est toujours au service de lui même quand il se plaint d'elle, ce qui ne la dérange pas.",
             "color": "#b00049",
-            "path": "/character/neramawa.html",
+            "path": "/character/neramawa",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/neramawa.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/neramawa.png"
         },
@@ -142,7 +142,7 @@
             "name": "Nerumono",
             "description": "Nerumono est le fondateur ainsi que chef du Collectif Nomoneru, et est l'antagoniste principal de Yunranoland. C'est lui qui gère toutes ses troupes et plans.",
             "color": "#b00075",
-            "path": "/character/nerumono.html",
+            "path": "/character/nerumono",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/nerumono.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/nerumono.png"
         },
@@ -151,7 +151,7 @@
             "name": "Obusidyawa",
             "description": "Obusidyawa est l'une des 15 membres du Collectif Yunrano. Elle est la représentante du minage, de l'obsidienne, ainsi que de l'arcade, et tient son propre magasin, l'Arcade.",
             "color": "#510d8c",
-            "path": "/character/obusidyawa.html",
+            "path": "/character/obusidyawa",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/obusidyawa.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/obusidyawa.png"
         },
@@ -160,7 +160,7 @@
             "name": "Reishikida",
             "description": "Reishikida est la représentante des reirishin (âmes), kokoesuri (esprits) ainsi que des supekan (spectres), et passe ses journées à Reidaihōsun.",
             "color": "#181f3b",
-            "path": "/character/reishikida.html",
+            "path": "/character/reishikida",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/reishikida.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/reishikida.png"
         },
@@ -169,7 +169,7 @@
             "name": "Sayetsuri",
             "description": "Sayetsuri est le représentant des sciences et de la médecine, c'est donc le scientifique et médecin du groupe, et reste la majorité de son temps dans son laboratoire.",
             "color": "#0d3154",
-            "path": "/character/sayetsuri.html",
+            "path": "/character/sayetsuri",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/sayetsuri.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/sayetsuri.png"
         },
@@ -178,7 +178,7 @@
             "name": "Suyataru",
             "description": "Suyataru est la représente des étoiles ainsi que du rêve. Elle a des yeux bleu foncé, et des cheveux bleu cyan, avec attachés dessus, une barrette bambou.",
             "color": "#45d1f5",
-            "path": "/character/suyataru.html",
+            "path": "/character/suyataru",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/suyataru.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/suyataru.png"
         },
@@ -187,7 +187,7 @@
             "name": "Tereya",
             "description": "Tereya est la représentante de la survie, et aide quotidiennement Sayetsuri dans ses recherches scientifiques.",
             "color": "#fcfcfc",
-            "path": "/character/tereya.html",
+            "path": "/character/tereya",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/tereya.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/tereya.png"
         },
@@ -196,7 +196,7 @@
             "name": "Tokinotsuki",
             "description": "Tokinotsuki est la représentante du temps, et dirige la ville de Taimūtaimū, qui est jumelée à Myūjikku, ville dirigée par son amie d'enfance Myūjadena.",
             "color": "#ff5500",
-            "path": "/character/tokinotsuki.html",
+            "path": "/character/tokinotsuki",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/character/tokinotsuki.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/character/tokinotsuki.png"
         },
@@ -205,7 +205,7 @@
             "name": "95 Studio",
             "description": "95 Studio était une petite startup indépendante créée le 5 septembre 1995 à Earthland, au Japon, dans l'archipel de Kyūshū, dans la préfecture de Fukuoka, à Kitakyūshū.",
             "color": "#bc3b00",
-            "path": "/company/95-studio.html",
+            "path": "/company/95-studio",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/company/95-studio.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/company/95-studio.png"
         },
@@ -214,7 +214,7 @@
             "name": "undefined",
             "description": "Description not found, the data may have been deleted or corrupted.",
             "color": "#850d00",
-            "path": "/dimension/undefined.html",
+            "path": "/dimension/undefined",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/dimension/undefined.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/dimension/undefined.png"
         },
@@ -223,7 +223,7 @@
             "name": "Yunranoland",
             "description": "Yunranoland est la dimension principale où se déroule l'histoire de Yunranohi. Son passé n'a pas été trop étudié pour le moment.",
             "color": "#49c916",
-            "path": "/dimension/yunranoland.html",
+            "path": "/dimension/yunranoland",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/dimension/yunranoland.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/dimension/yunranoland.png"
         },
@@ -232,7 +232,7 @@
             "name": "Yukidami",
             "description": "Yukidami est l'une des 10 régions de Yunranoland. Elle est dirigée par Kōrufuyuki, et c'est la deuxième plus grande si on ne prend pas en compte Chimauchū.",
             "color": "#cad8db",
-            "path": "/region/yukidami.html",
+            "path": "/region/yukidami",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/region/yukidami.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/region/yukidami.png"
         },
@@ -241,7 +241,7 @@
             "name": "Yōgandaichi",
             "description": "Yōgandaichi est l'une des 10 régions de Yunranoland. Elle est dirigée par Hinosako, et c'est la troisième plus grande si on ne prend pas en compte Chimauchū.",
             "color": "#850000",
-            "path": "/region/yogandaichi.html",
+            "path": "/region/yogandaichi",
             "icon": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/icon/region/yogandaichi.png",
             "img": "https://magictendo.github.io/GithubPages/img/api/baka-wiki/region/yogandaichi.png"
         }
