@@ -1,5 +1,5 @@
 {
-    "_credit_fr": "Yunranohi - API créée par BakaTaida / https://magictendo.github.io/GithubPages/api/yunranohi.json",
+    "_credit_fr": "Yunranohi - API cr\u00e9\u00e9e par BakaTaida / https://magictendo.github.io/GithubPages/api/yunranohi.json",
     "_credit_en": "Yunranohi - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/yunranohi.json",
     "leaderboards": {
         "shutanopikuseru": {
@@ -26,14 +26,15 @@
             },
             "fifth": {
                 "points": "60",
-                "username": "Raphaël",
+                "username": "Rapha\u00ebl",
                 "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/raphael.png"
             }
         },
         "ropuge_batoru": {
             "first": {
                 "points": "???",
-                "username": "???"
+                "username": "???",
+                "name": "TESUTO"
             },
             "second": {
                 "points": "???",
