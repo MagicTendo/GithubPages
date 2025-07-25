@@ -1,34 +1,118 @@
 {
-    "_credit_fr": "Yunranohi - API cr\u00e9\u00e9e par BakaTaida / https://magictendo.github.io/GithubPages/api/yunranohi.json",
-    "_credit_en": "Yunranohi - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/yunranohi.json",
-    "leaderboards": {
-        "shutanopikuseru": {
-            "game_logo": "https://magictendo.github.io/GithubPages/img/api/yunranohi/shutanopikuseru-logo.png",
-            "first": {
-                "points": "1060",
+    "shutanopikuseru": {
+        "name": "Shūtānopikuseru",
+        "version": "2.0.0",
+        "date": "2022-02-14T23:00:00.000Z",
+        "tags": [
+            "Arcade",
+            "Shooter"
+        ],
+        "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/shutanopikuseru/shutanopikuseru-logo.png",
+        "leaderboard": [
+            {
                 "username": "CoolMan",
-                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/coolman.png"
+                "points": "1060",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/shutanopikuseru/coolman.png"
             },
-            "second": {
-                "points": "1020",
+            {
                 "username": "BakaTaida",
-                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/bakataida.png"
+                "points": "1020",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/bakataida.png"
             },
-            "third": {
-                "points": "880",
+            {
                 "username": "Leo Le Pik",
-                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/leo-le-pik.png"
+                "points": "880",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/leo-le-pik.png"
             },
-            "fourth": {
-                "points": "140",
+            {
                 "username": "Liam",
-                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/liam.png"
+                "points": "140",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/liam.png"
             },
-            "fifth": {
+            {
+                "username": "Raphaël",
                 "points": "60",
-                "username": "Rapha\u00ebl",
-                "proof": "https://magictendo.github.io/GithubPages/img/api/yunranohi/raphael.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/raphael.png"
             }
-        }
+        ],
+        "finished": true
+    },
+    "worst-game": {
+        "name": "「何とも最悪のゲーム、とても出鱈目と本当に悪いと大いに憤ろしいと中々異様と甚だ難しいと非常に煩わしいと余程おもんねーなど、誰も遊ぶな…」",
+        "version": "1.0.0",
+        "date": "2024-12-23T23:00:00.000Z",
+        "tags": [
+            "Horrible",
+            "Platformer",
+            "Puzzle"
+        ],
+        "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/worst-game/worst-game-logo.png",
+        "leaderboard": [
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            }
+        ],
+        "finished": false
+    },
+    "ropuge_batoru": {
+        "name": "ROPUGE BATORU",
+        "version": "1.0.0",
+        "date": "2025-01-31T23:00:00.000Z",
+        "tags": [
+            "Arcade",
+            "CLI",
+            "RPG"
+        ],
+        "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/ropuge-batoru/ropuge-batoru-logo.png",
+        "leaderboard": [
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            }
+        ],
+        "finished": false
     }
 }
