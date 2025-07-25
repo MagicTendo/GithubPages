@@ -15,6 +15,7 @@
                 173
             ]
         },
+        "link": "https://yunranohi.rf.gd/game/shutanopikuseru",
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/shutanopikuseru/shutanopikuseru-logo.png",
         "leaderboard": [
             {
@@ -62,6 +63,7 @@
                 0
             ]
         },
+        "link": "https://yunranohi.rf.gd/game/worst-game",
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/worst-game/worst-game-logo.png",
         "leaderboard": [
             {
@@ -92,7 +94,7 @@
         ],
         "finished": false
     },
-    "ropuge_batoru": {
+    "ropuge-batoru": {
         "name": "ROPUGE BATORU",
         "version": "1.0.0",
         "date": "2025-01-31T23:00:00.000Z",
@@ -109,6 +111,7 @@
                 39
             ]
         },
+        "link": "https://github.com/MagicTendo/ROPUGE-BATORU",
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/ropuge-batoru/ropuge-batoru-logo.png",
         "leaderboard": [
             {
