@@ -7,6 +7,14 @@
             "Arcade",
             "Shooter"
         ],
+        "colors": {
+            "hex": "#ad03ad",
+            "rgb": [
+                173,
+                3,
+                173
+            ]
+        },
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/shutanopikuseru/shutanopikuseru-logo.png",
         "leaderboard": [
             {
@@ -46,6 +54,14 @@
             "Platformer",
             "Puzzle"
         ],
+        "colors": {
+            "hex": "#cdc200",
+            "rgb": [
+                205,
+                194,
+                0
+            ]
+        },
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/worst-game/worst-game-logo.png",
         "leaderboard": [
             {
@@ -85,6 +101,14 @@
             "CLI",
             "RPG"
         ],
+        "colors": {
+            "hex": "#3f1527",
+            "rgb": [
+                63,
+                21,
+                39
+            ]
+        },
         "logo": "https://raw.githubusercontent.com/MagicTendo/GithubPages/refs/heads/main/img/api/yunranohi/ropuge-batoru/ropuge-batoru-logo.png",
         "leaderboard": [
             {
